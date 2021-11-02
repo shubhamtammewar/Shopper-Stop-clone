@@ -1,6 +1,6 @@
 [
     {
-        "Product Id": "sw01",
+        "Product_Id": "sw01",
         "Product_Brand": "INFUSE",
         "Product_Title": "INFUSE",
         "Product_MRP": 999,
@@ -21,7 +21,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw02",
+        "Product_Id": "sw02",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 3299,
@@ -41,7 +41,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw03",
+        "Product_Id": "sw03",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 2098,
@@ -62,7 +62,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw04",
+        "Product_Id": "sw04",
         "Product_Brand": "JANASYA",
         "Product_Title": "JANASYA",
         "Product_MRP": 2799,
@@ -82,7 +82,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw05",
+        "Product_Id": "sw05",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 3299,
@@ -103,7 +103,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw06",
+        "Product_Id": "sw06",
         "Product_Brand": "RARE",
         "Product_Title": "RARE",
         "Product_MRP": 1899,
@@ -124,7 +124,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw07",
+        "Product_Id": "sw07",
         "Product_Brand": "INSENSE",
         "Product_Title": "INSENSE",
         "Product_MRP": 999,
@@ -145,7 +145,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw08",
+        "Product_Id": "sw08",
         "Product_Brand": "FRATINI",
         "Product_Title": "FRATINI",
         "Product_MRP": 1699,
@@ -165,7 +165,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw09",
+        "Product_Id": "sw09",
         "Product_Brand": "IRA SOLEIL",
         "Product_Title": "IRA SOLEIL",
         "Product_MRP": 699,
@@ -186,7 +186,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw10",
+        "Product_Id": "sw10",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 799,
@@ -207,7 +207,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw11",
+        "Product_Id": "sw11",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 999,
@@ -227,7 +227,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw12",
+        "Product_Id": "sw12",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 599,
@@ -247,7 +247,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw13",
+        "Product_Id": "sw13",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 849,
@@ -265,7 +265,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw14",
+        "Product_Id": "sw14",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 576,
@@ -283,7 +283,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw15",
+        "Product_Id": "sw15",
         "Product_Brand": "JUNIPER",
         "Product_Title": "JUNIPER",
         "Product_MRP": 899,
@@ -302,7 +302,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw16",
+        "Product_Id": "sw16",
         "Product_Brand": "ARTEASTRI",
         "Product_Title": "ARTEASTRI",
         "Product_MRP": 2800,
@@ -321,7 +321,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw17",
+        "Product_Id": "sw17",
         "Product_Brand": "ARTEASTRI",
         "Product_Title": "ARTEASTRI",
         "Product_MRP": 3100,
@@ -339,7 +339,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw18",
+        "Product_Id": "sw18",
         "Product_Brand": "ARTEASTRI",
         "Product_Title": "ARTEASTRI",
         "Product_MRP": 2550,
@@ -358,7 +358,7 @@
         "Gender": "Women"
     },
 {
-        "Product Id": "sw19",
+        "Product_Id": "sw19",
         "Product_Brand": "ARTEASTRI",
         "Product_Title": "ARTEASTRI",
         "Product_MRP": 1940,
@@ -376,7 +376,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw20",
+        "Product_Id": "sw20",
         "Product_Brand": "ARTEASTRI",
         "Product_Title": "ARTEASTRI",
         "Product_MRP": 1650,
@@ -394,7 +394,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw21",
+        "Product_Id": "sw21",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 399,
@@ -412,7 +412,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw22",
+        "Product_Id": "sw22",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 399,
@@ -429,7 +429,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw23",
+        "Product_Id": "sw23",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 499,
@@ -447,7 +447,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw24",
+        "Product_Id": "sw24",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 149,
@@ -464,7 +464,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw25",
+        "Product_Id": "sw25",
         "Product_Brand": "STOP",
         "Product_Title": "STOP",
         "Product_MRP": 399,
@@ -482,7 +482,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw26",
+        "Product_Id": "sw26",
         "Product_Brand": "ISHIN",
         "Product_Title": "ISHIN",
         "Product_MRP": 1599,
@@ -499,7 +499,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw27",
+        "Product_Id": "sw27",
         "Product_Brand": "ISHIN",
         "Product_Title": "ISHIN",
         "Product_MRP": 1599,
@@ -516,7 +516,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw28",
+        "Product_Id": "sw28",
         "Product_Brand": "VARKALA SILK SAREES",
         "Product_Title": "VARKALA SILK SAREES",
         "Product_MRP": 4500,
@@ -537,7 +537,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw29",
+        "Product_Id": "sw29",
         "Product_Brand": "VARKALA SILK SAREES",
         "Product_Title": "VARKALA SILK SAREES",
         "Product_MRP": 7500,
@@ -557,7 +557,7 @@
         "Gender": "Women"
     },
     {
-        "Product Id": "sw30",
+        "Product_Id": "sw30",
         "Product_Brand": "ISHIN",
         "Product_Title": "ISHIN",
         "Product_MRP": 2499,

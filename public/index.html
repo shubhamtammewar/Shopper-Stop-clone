@@ -10,30 +10,16 @@
 <body>
     <h1>Welcome to the page.</h1>
 
-    <button onclick="men()">Men</button>
-    <button onclick="watch()">watch</button>
+    <button onclick="data()">women</button>
 
     <script>
-        async function men() {
-            var data = fetch("http://localhost:8080/men")
-            .then((response) => {
-                var data = response.json()
-                .then((responseData) => {
-                    // console.log(responseData);
-                    showdata(responseData);
-                })
-                .catch((error) => {
-                    console.log(error);
-                })
-            })
-        }
-
-        async function watch() {
-            var data = fetch("http://localhost:8080/watch")
+        async function data() {
+            var data = fetch("http://localhost:8080/women")
             .then((response) => {
                 var data = response.json()
                 .then((responseData) => {
                     console.log(responseData);
+                    showdata(responseData);
                 })
                 .catch((error) => {
                     console.log(error);
@@ -42,7 +28,7 @@
         }
         function showdata(data){
             data.forEach((d) => {
-                console.log(data.Product_Id);
+                console.log(d.Product_Id);
             });
         }
     </script>
