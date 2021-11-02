@@ -1,0 +1,578 @@
+[
+    {
+        "Product Id": "sw01",
+        "Product_Brand": "INFUSE",
+        "Product_Title": "INFUSE",
+        "Product_MRP": 999,
+        "Product_Price": 499,
+        "Product_Discount": 50,
+        "Product_Description": "Solid Viscose Blend Mandarin Neck Womens A-Line Kurta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h37/h7b/17272451072030/A21INFKUS41_MAROON.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/haa/h6d/17272451465246/A21INFKUS41_MAROON.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hae/h5b/17272493408286/A21INFKUS41_MAROON_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h8b/hc9/17272455397406/A21INFKUS41_MAROON_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hbe/h6c/17272422629406/A21INFKUS41_MAROON_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Maroon",
+        "Delivery_Type": "Express",
+        "Product_Type": "Kurta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw02",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 3299,
+        "Product_Price": 1319,
+        "Product_Discount": 60,
+        "Product_Description": "Abstract Round Neck Alphin Chiffon Womens Flared Dress",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h8d/hb9/17041067573278/S212516_BLACK.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hb9/hf6/17039408201758/S212516_BLACK_alt1.jpg_276Wx400H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h4a/hc0/17041067769886/S212516_BLACK.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hc1/h65/17041523441694/S212516_BLACK_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Express",
+        "Product_Type": "Kurta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw03",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 2098,
+        "Product_Price": 839,
+        "Product_Discount": 60,
+        "Product_Description": "Poly Silk Womens Kurta With Pant And Dupatta Set",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hfd/h5d/17352949792798/A212611B_BLACK.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h41/hd1/17352609071134/A212611B_BLACK_alt4.jpg_276Wx400H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h42/ha1/17352950054942/A212611B_BLACK.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h3f/hd4/17352609136670/A212611B_BLACK_alt4.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hfb/ha9/17353163145246/A212611B_BLACK_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Express",
+        "Product_Type": "Kurta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw04",
+        "Product_Brand": "JANASYA",
+        "Product_Title": "JANASYA",
+        "Product_MRP": 2799,
+        "Product_Price": 1319,
+        "Product_Discount": 50,
+        "Product_Description": "Poly Silk Womens Kurta With Pant And Dupatta Set",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h8e/hd9/16691555237918/S21JASET264KR_GOLD.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h24/h30/16690293276702/S21JASET264KR_GOLD_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h33/h4d/16690065539102/S21JASET264KR_GOLD_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h09/h99/16690377457694/S21JASET264KR_GOLD_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Gold",
+        "Delivery_Type": "Express",
+        "Product_Type": "Kurta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw05",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 3299,
+        "Product_Price": 2369,
+        "Product_Discount": 35,
+        "Product_Description": "Mandarin Neck Rayon A-Line Womens Salwar Kurta Dupatta Set",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h5e/h6d/17352886386718/A212679P_GREEN.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hd5/ha7/17352553889822/A212679P_GREEN_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hd5/ha7/17352553889822/A212679P_GREEN_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hed/h4f/17352758591518/A212679P_GREEN_alt5.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h04/h27/17353144336414/A212679P_GREEN_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Green",
+        "Delivery_Type": "Express",
+        "Product_Type": "Kurta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw06",
+        "Product_Brand": "RARE",
+        "Product_Title": "RARE",
+        "Product_MRP": 1899,
+        "Product_Price": 759,
+        "Product_Discount": 60,
+        "Product_Description": "Womens Floral Print Flared Dress",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/F83104EDF4214AF0947D1E9EC03145BC/204038063_9308_F83104EDF4214AF0947D1E9EC03145BC.jpg",
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/73BA6DD112DE4E9087D7BAADCB0D2ED3/204038063_9308_73BA6DD112DE4E9087D7BAADCB0D2ED3.jpg",
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/6725EA053B95469D8D4D3DB15E1F372F/204038063_9308_alt3_6725EA053B95469D8D4D3DB15E1F372F.jpg",
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/FC341881D5494F1E8BE6452B13E5C02A/204038063_9308_alt1_FC341881D5494F1E8BE6452B13E5C02A.jpg",
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/73BA6DD112DE4E9087D7BAADCB0D2ED3/204038063_9308_73BA6DD112DE4E9087D7BAADCB0D2ED3.jpg"
+        ],
+        "Product_Color": "Blue",
+        "Delivery_Type": "Express",
+        "Product_Type": "Western",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw07",
+        "Product_Brand": "INSENSE",
+        "Product_Title": "INSENSE",
+        "Product_MRP": 999,
+        "Product_Price": 699,
+        "Product_Discount": 30,
+        "Product_Description": "Printed Cotton Round Neck Womens Top & Pyjama Set",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h38/hf9/17503085887518/S21LGPRNPJSET01_NAVY_MARL.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hf0/h08/17503127076894/S21LGPRNPJSET01_NAVY_MARL_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h99/h02/17503106138142/S21LGPRNPJSET01_NAVY_MARL_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hca/h13/17503114788894/S21LGPRNPJSET01_NAVY_MARL_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h24/h9c/17503097454622/S21LGPRNPJSET01_NAVY_MARL_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Blue",
+        "Delivery_Type": "Express",
+        "Product_Type": "Western",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw08",
+        "Product_Brand": "FRATINI",
+        "Product_Title": "FRATINI",
+        "Product_MRP": 1699,
+        "Product_Price": 1189,
+        "Product_Discount": 30,
+        "Product_Description": "Printed Collared Neck Rayon Womens Regular Fit Dress",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf0/h2a/16714026385438/S21346DRZARA_BERRY.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h6f/h19/16713878536222/S21346DRZARA_BERRY_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h44/h61/16713976184862/S21346DRZARA_BERRY_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h19/hcf/16713854418974/S21346DRZARA_BERRY_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Berry",
+        "Delivery_Type": "Express",
+        "Product_Type": "Western",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw09",
+        "Product_Brand": "IRA SOLEIL",
+        "Product_Title": "IRA SOLEIL",
+        "Product_MRP": 699,
+        "Product_Price": 1319,
+        "Product_Discount": 65,
+        "Product_Description": "Solid Dupion Round Neck Womens Casual Jacket",
+        "Product_Image": [
+            "https://www.shoppersstop.com/ira-soleil-solid-dupion-round-neck-womens-casual-jacket/p-J613WINE/colorChange/J613WINE_WINE?currentPosition=16&searchQueryUrl=https%3A%2F%2Fwww.shoppersstop.com%2Fwomen-westernwear%2Fc-A2060%3Frestore%3Dtrue%26restorePageSize%3D25&totalResultVal=10552&searchPageType=category",
+            "https://sslimages.shoppersstop.com/sys-master/images/h62/hdd/16862099767326/J613WINE_WINE_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h6c/h42/16861572988958/J613WINE_WINE_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hb8/he2/16862126833694/J613WINE_WINE_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hf2/hf8/16862100553758/J613WINE_WINE_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Wine",
+        "Delivery_Type": "Express",
+        "Product_Type": "Western",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw10",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 799,
+        "Product_Price": 559,
+        "Product_Discount": 30,
+        "Product_Description": "Printed Rayon Womens Regular Fit Top",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h56/h6b/16713704341534/S21346WT18_MUSTARD.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h8e/h5e/16713701589022/S21346WT18_MUSTARD_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h75/h1f/16714030055454/S21346WT18_MUSTARD_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h33/h2c/16714051158046/S21346WT18_MUSTARD_alt3.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hbd/hc4/16713978347550/S21346WT18_MUSTARD_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Mustard",
+        "Delivery_Type": "Express",
+        "Product_Type": "Western",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw11",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 999,
+        "Product_Price": 499,
+        "Product_Discount": 50,
+        "Product_Description": "Woven Poly Silk Dupatta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h55/hd7/17237402615838/A21INFDU09_MAROON.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hd1/h8d/17237367160862/A21INFDU09_MAROON_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h97/h45/17237360672798/A21INFDU09_MAROON_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h66/h9a/17237383741470/A21INFDU09_MAROON_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Maroon",
+        "Delivery_Type": "Express",
+        "Product_Type": "Dupatta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw12",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 599,
+        "Product_Price": 419,
+        "Product_Discount": 30,
+        "Product_Description": "Full Length Cotton Woven Womens Dupatta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h0a/h45/16629016821790/S21STDU13F_PINK.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h5c/h71/16629597962270/S21STDU13F_PINK_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h03/h6f/16629217624094/S21STDU13F_PINK_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/ha7/h37/16628932837406/S21STDU13F_PINK_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Pink",
+        "Delivery_Type": "Express",
+        "Product_Type": "Dupatta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw13",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 849,
+        "Product_Price": 382,
+        "Product_Discount": 55,
+        "Product_Description": "Solid Regular Length Net Woven Womens Dupatta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h78/h3f/17427693010974/A219655OA_BROWN.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hf2/hcb/17427379585054/A219655OA_BROWN_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "Brown",
+        "Delivery_Type": "Express",
+        "Product_Type": "Dupatta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw14",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 576,
+        "Product_Price": 1049,
+        "Product_Discount": 45,
+        "Product_Description": "Bandhani Shantoon Woven Womens Dupatta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h36/h69/16805854904350/2265FUSCHIA_FUSCHIA.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/ha9/hea/16805462769694/2265FUSCHIA_FUSCHIA_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "Fuschia",
+        "Delivery_Type": "Express",
+        "Product_Type": "Dupatta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw15",
+        "Product_Brand": "JUNIPER",
+        "Product_Title": "JUNIPER",
+        "Product_MRP": 899,
+        "Product_Price": 314,
+        "Product_Discount": 65,
+        "Product_Description": "Striped Cotton Chanderi Woven Womens Dupatta",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hd7/h72/16805757026334/S21JUDUP2563_OFF_WHITE.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h2f/ha1/16806731120670/S21JUDUP2563_OFF_WHITE_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hee/hbb/16805860802590/S21JUDUP2563_OFF_WHITE_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "off White",
+        "Delivery_Type": "Express",
+        "Product_Type": "Dupatta",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw16",
+        "Product_Brand": "ARTEASTRI",
+        "Product_Title": "ARTEASTRI",
+        "Product_MRP": 2800,
+        "Product_Price": 2240,
+        "Product_Discount": 20,
+        "Product_Description": "Woven Design Regular Length Silk Womens Stole",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h1b/h04/17568650788894/A21ARTBALPG13_PINK.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h6b/hcc/17568649084958/A21ARTBALPG13_PINK_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hcd/hf7/17568398082078/A21ARTBALPG13_PINK_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Pink",
+        "Delivery_Type": "Express",
+        "Product_Type": "Scarf",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw17",
+        "Product_Brand": "ARTEASTRI",
+        "Product_Title": "ARTEASTRI",
+        "Product_MRP": 3100,
+        "Product_Price": 2480,
+        "Product_Discount": 20,
+        "Product_Description":"Woven Design Regular Length Silk Womens Stole" ,
+    "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hb9/h11/17568590725150/A21ARTERBW10_BROWN.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hb4/h65/17568523550750/A21ARTERBW10_BROWN_alt1.jpg_276Wx400H"
+        ],
+        "Product_Color": "Brown",
+        "Delivery_Type": "Express",
+        "Product_Type": "Scaarf",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw18",
+        "Product_Brand": "ARTEASTRI",
+        "Product_Title": "ARTEASTRI",
+        "Product_MRP": 2550,
+        "Product_Price": 2040,
+        "Product_Discount": 20,
+        "Product_Description": "Woven Design Regular Length Silk Blend Womens Stole",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hda/h9a/17568392904734/A21ARTCEYB05_YELLOW.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h10/hed/17568495370270/A21ARTCEYB05_YELLOW_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h3b/hd0/17568530628638/A21ARTCEYB05_YELLOW_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Yellow",
+        "Delivery_Type": "Express",
+        "Product_Type": "Scarf",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+{
+        "Product Id": "sw19",
+        "Product_Brand": "ARTEASTRI",
+        "Product_Title": "ARTEASTRI",
+        "Product_MRP": 1940,
+        "Product_Price": 2425,
+        "Product_Discount": 20,
+        "Product_Description": "Textured Regular Length Silk Womens Stole",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/he6/hdc/17568420036638/A21ARTSSBS16_GREEN.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hc4/h95/17568376586270/A21ARTSSBS16_GREEN_alt2.jpg_276Wx400H"
+        ],
+        "Product_Color": "Green",
+        "Delivery_Type": "Express",
+        "Product_Type": "Scarf",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw20",
+        "Product_Brand": "ARTEASTRI",
+        "Product_Title": "ARTEASTRI",
+        "Product_MRP": 1650,
+        "Product_Price": 1320,
+        "Product_Discount": 20,
+        "Product_Description": "Geometric Regular Length Cotton Womens Stole",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h4a/hba/17568679362590/A21ARTCJS25_BLUE.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h5a/ha8/17568378028062/A21ARTCJS25_BLUE_alt1.jpg_276Wx400H"
+        ],
+        "Product_Color": "Blue",
+        "Delivery_Type": "Express",
+        "Product_Type": "Scarf",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw21",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 399,
+        "Product_Price": 99,
+        "Product_Discount": 75,
+        "Product_Description": "Womens 2 Ply Anti Microbial Reusable Protective Fashion Mask- Pack of 5",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h89/hca/16100750786590/A202164RPK5-RA_ASSORTED.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h81/hcb/14991532654622/A202164RPK5-RA_ASSORTED_alt7.jpg_276Wx400H"
+        ],
+        "Product_Color": "Multi",
+        "Delivery_Type": "Express",
+        "Product_Type": "Masks",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw22",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 399,
+        "Product_Price": 99,
+        "Product_Discount": 75,
+        "Product_Description": "Womens 2 Ply Anti Microbial Reusable Protective Fashion Mask- Pack of 5",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf7/h64/14992123166750/206951600_ASSORTED.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Multi",
+        "Delivery_Type": "Express",
+        "Product_Type": "Masks",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw23",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 499,
+        "Product_Price": 499,
+        "Product_Discount": 0,
+        "Product_Description": "Face Mask II (Set of 2) IN Adults",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hb0/hd3/15727385640990/A20FM25410805BK_BLACK.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hba/hf8/15110561562654/A20FM25410805BK_BLACK_alt1.jpg_276Wx400H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Express",
+        "Product_Type": "Masks",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw24",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 149,
+        "Product_Price": 74,
+        "Product_Discount": 50,
+        "Product_Description": "210 TC Cotton Flexi Kids Printed Multi Brig Face Mask",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hd8/h5c/16975927050270/206924566_MIXED_BRIGHTS.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Multi",
+        "Delivery_Type": "Express",
+        "Product_Type": "Masks",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw25",
+        "Product_Brand": "STOP",
+        "Product_Title": "STOP",
+        "Product_MRP": 399,
+        "Product_Price": 99,
+        "Product_Discount": 75,
+        "Product_Description":"Womens 2 Ply Anti Microbial Reusable Protective Fashion Mask- Pack of 5" ,
+    "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h4d/hbc/16116318011422/A20MASKPK5RI2_ASSORTED.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h47/hc7/15086066532382/A20MASKPK5RI2_ASSORTED_alt7.jpg_276Wx400H"
+        ],
+        "Product_Color": "Multi",
+        "Delivery_Type": "Express",
+        "Product_Type": "Masks",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw26",
+        "Product_Brand": "ISHIN",
+        "Product_Title": "ISHIN",
+        "Product_MRP": 1599,
+        "Product_Price": 799,
+        "Product_Discount": 50,
+        "Product_Description": "Womens Faux Georgette Floral Printed Saree",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/C92FD0B323A34296BCBD1CE8978F7E97/203260321_9607_C92FD0B323A34296BCBD1CE8978F7E97.jpg?imgopt=off"
+        ],
+        "Product_Color": "Red",
+        "Delivery_Type": "Express",
+        "Product_Type": "Saree",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw27",
+        "Product_Brand": "ISHIN",
+        "Product_Title": "ISHIN",
+        "Product_MRP": 1599,
+        "Product_Price": 799,
+        "Product_Discount": 50,
+        "Product_Description": "Womens Faux Georgette Printed Saree",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/42A87A2F59764C4B8D3349A6721FD8FC/203260335_9324_42A87A2F59764C4B8D3349A6721FD8FC.jpg"
+        ],
+        "Product_Color": "Navy",
+        "Delivery_Type": "Express",
+        "Product_Type": "Saree",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw28",
+        "Product_Brand": "VARKALA SILK SAREES",
+        "Product_Title": "VARKALA SILK SAREES",
+        "Product_MRP": 4500,
+        "Product_Price": 1239,
+        "Product_Discount": 72,
+        "Product_Description": "Kanjivaram Katan Silk Traditional Women Kanjivaram Saree",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h3c/he0/16162819047454/S21TD1226WN_WINE.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h6c/hd9/16162819244062/S21TD1226WN_WINE.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h60/h0a/16162662580254/S21TD1226WN_WINE_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h5c/he7/16162664808478/S21TD1226WN_WINE_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hed/h49/16162600124446/S21TD1226WN_WINE_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Pink",
+        "Delivery_Type": "Express",
+        "Product_Type": "Saree",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw29",
+        "Product_Brand": "VARKALA SILK SAREES",
+        "Product_Title": "VARKALA SILK SAREES",
+        "Product_MRP": 7500,
+        "Product_Price": 1749,
+        "Product_Discount": 77,
+        "Product_Description": "Laheriya Katan Silk Traditional Women Laheriya Saree    ",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h8a/hbd/16162717958174/S21D59A255_BABY_PINK.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h8a/h20/16413653237790/S21D59A255_BABY_PINK_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/hd5/h1f/16443798585374/S21D59A255_BABY_PINK_alt2.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h2d/h67/16445517070366/S21D59A255_BABY_PINK_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Baby Pink",
+        "Delivery_Type": "Express",
+        "Product_Type": "Saree",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    },
+    {
+        "Product Id": "sw30",
+        "Product_Brand": "ISHIN",
+        "Product_Title": "ISHIN",
+        "Product_MRP": 2499,
+        "Product_Price": 874,
+        "Product_Discount": 65,
+        "Product_Description": "Womens Poly Georgette Orange Foil Printed Saree",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h1e/h7a/15896871895070/ISHIKAISH20074_ORANGE.jpg_1088Wx1632H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h2b/h16/15897888817182/ISHIKAISH20074_ORANGE_alt1.jpg_230Wx334H",
+            "https://sslimages.shoppersstop.com/sys-master/images/h39/h47/15898520322078/ISHIKAISH20074_ORANGE_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Orange",
+        "Delivery_Type": "Express",
+        "Product_Type": "Saree",
+        "Product_Size": "Free Size",
+        "Gender": "Women"
+    }
+]
