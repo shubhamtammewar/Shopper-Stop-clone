@@ -12,8 +12,11 @@ const server = http.createServer((req, res) => {
         fs.readFile(`${__dirname}/JSONDATA/men.json`, 'UTF-8', (err, data) => {
             res.end(data);
         })
-    } 
-    else {
+    } else if (req.url === '/women') {
+        fs.readFile(`${__dirname}/JSONDATA/women.json`, 'UTF-8', (err, data) => {
+            res.end(data);
+        })
+    } else {
         res.writeHead(404, { "Context-type": "text/html" });
         res.end("<h1>Invalid page</h1>");
     }
