@@ -10,16 +10,15 @@
 <body>
     <h1>Welcome to the page.</h1>
 
-    <button onclick="data()">women</button>
+    <button onclick="data()">kid</button>
 
     <script>
         async function data() {
-            var data = fetch("http://localhost:8080/men")
+            var data = fetch("http://localhost:8080/kid")
             .then((response) => {
                 var data = response.json()
                 .then((responseData) => {
                     console.log(responseData);
-                    // showdata(responseData);
                 })
                 .catch((error) => {
                     console.log(error);
