@@ -16,6 +16,14 @@ const server = http.createServer((req, res) => {
         fs.readFile(`${__dirname}/JSONDATA/women.json`, 'UTF-8', (err, data) => {
             res.end(data);
         })
+    } else if (req.url === '/homestop') {
+        fs.readFile(`${__dirname}/JSONDATA/Homestop.json`, 'UTF-8', (err, data) => {
+            res.end(data);
+        })
+    } else if (req.url === '/beauty') {
+        fs.readFile(`${__dirname}/JSONDATA/beauty.json`, 'UTF-8', (err, data) => {
+            res.end(data);
+        })
     } else {
         res.writeHead(404, { "Context-type": "text/html" });
         res.end("<h1>Invalid page</h1>");

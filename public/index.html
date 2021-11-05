@@ -14,22 +14,17 @@
 
     <script>
         async function data() {
-            var data = fetch("http://localhost:8080/women")
+            var data = fetch("http://localhost:8080/men")
             .then((response) => {
                 var data = response.json()
                 .then((responseData) => {
                     console.log(responseData);
-                    showdata(responseData);
+                    // showdata(responseData);
                 })
                 .catch((error) => {
                     console.log(error);
                 })
             })
-        }
-        function showdata(data){
-            data.forEach((d) => {
-                console.log(d.Product_Id);
-            });
         }
     </script>
 </body>
