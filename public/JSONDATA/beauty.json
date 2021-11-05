@@ -1,0 +1,854 @@
+[
+    {
+        "Product_Id": "B001",
+        "Product_Brand": "MAC",
+        "Product_Title": "Mac Bill Buster Kit 2021",
+        "Product_MRP": 5000,
+        "Product_Price": 2500,
+        "Product_Discount": 50,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h6b/h54/17434502168606/MAC-BBKIT_NoColour.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hb4/hce/17434503610398/MAC-BBKIT_NoColour_alt1.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hba/h71/17434505052190/MAC-BBKIT_NoColour_alt2.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3a/he3/17434508722206/MAC-BBKIT_NoColour_alt3.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h83/hd1/17434504331294/MAC-BBKIT_NoColour_alt5.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "No Color",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "All Face"
+    },
+    {
+        "Product_Id": "B002",
+        "Product_Brand": "MAC",
+        "Product_Title": "Mini Mac Studio Fix Fluid NC15 - 15 ml",
+        "Product_MRP": 1750,
+        "Product_Price": 1750,
+        "Product_Discount": 0,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h6b/h54/17434502168606/MAC-BBKIT_NoColour.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hb4/hce/17434503610398/MAC-BBKIT_NoColour_alt1.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hba/h71/17434505052190/MAC-BBKIT_NoColour_alt2.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3a/he3/17434508722206/MAC-BBKIT_NoColour_alt3.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h83/hd1/17434504331294/MAC-BBKIT_NoColour_alt5.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Nc15 Light Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "All Face"
+    },
+    {
+        "Product_Id": "B003",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Pose Hd Highlighter Duo Champagne Rose Gold 9 gm",
+        "Product_MRP": 1850,
+        "Product_Price": 925,
+        "Product_Discount": 50,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/ha3/h9a/14103123460126/204961221_9999.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h98/hc8/14103865425950/204961221_9999_alt1.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h73/h33/14105716457502/204961221_9999_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc1/ha3/14103324655646/204961221_9999_alt3.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "All Face"
+    },
+    {
+        "Product_Id": "B004",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Spotlight - Stardust (Org) - 13 gm",
+        "Product_MRP": 1195,
+        "Product_Price": 597,
+        "Product_Discount": 50,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hb3/h89/16566338977822/206044328_NoColour.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "All Face"
+    },
+    {
+        "Product_Id": "B005",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Vitamin C+ Day Cream 50 g",
+        "Product_MRP": 349,
+        "Product_Price": 349,
+        "Product_Discount": 0,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hca/hbb/16925880778782/S21LAK030841910_NoColour.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hcb/h92/16925596909598/S21LAK030841910_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3a/hb2/16925851615262/S21LAK030841910_NoColour_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hae/h90/16925932027934/S21LAK030841910_NoColour_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BB & CC CREAM"
+    },
+    {
+        "Product_Id": "B006",
+        "Product_Brand": "FACES",
+        "Product_Title": "Ultime Pro Sun Defence CC Powder SPF 30 - Natural 02 - 8 g",
+        "Product_MRP": 799,
+        "Product_Price": 799,
+        "Product_Discount": 0,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h0d/hf9/17521107435550/206011889_NATURAL.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc9/h00/17521867816990/206011889_NATURAL_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/he4/hc5/17522657787934/206011889_NATURAL_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Natural",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BB & CC CREAM"
+    },
+    {
+        "Product_Id": "B007",
+        "Product_Brand": "JUST HERBS",
+        "Product_Title": "Just Herbs Skin Tint- 1 - Ivory - 40 ml",
+        "Product_MRP": 1295,
+        "Product_Price": 1295,
+        "Product_Discount": 0,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hc4/hfd/14696539324446/206792573_9999.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BB & CC CREAM"
+    },
+    {
+        "Product_Id": "B008",
+        "Product_Brand": "FACES",
+        "Product_Title": "Cc Cream - SPF 20 - 35 gm",
+        "Product_MRP": 479,
+        "Product_Price": 479,
+        "Product_Discount": 0,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h19/he4/17395882000414/9140947_NATURAL_01.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h40/hd5/17395878461470/9140947_SAND.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BB & CC CREAM"
+    },
+    {
+        "Product_Id": "B009",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "K.Play Flavoured Blush - 9 gm",
+        "Product_MRP": 645,
+        "Product_Price": 322,
+        "Product_Discount": 50,
+        "Product_Description": "Cheek to chic in a buff or two only with the K.Play Flavoured Blush by MyGlamm. Infused with fresh fruity flavours, this mattifying blush lasts really long and gives you that healthy, flushed look. And, don’t worry about patchiness, it’s smooth blending all the way.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h43/h43/17560895127582/206312437_MYGLM_KPLAYRASPBERYFLAVRDBLH.jpg_1088Wx1632H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/he3/hd3/17560697569310/206312437_MYGLM_KPLAYRASPBERYFLAVRDBLH_alt1.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BLUSH"
+    },
+    {
+        "Product_Id": "B0010",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Pose Hd Blush Duo Coral Punch 9 gm",
+        "Product_MRP": 950,
+        "Product_Price": 475,
+        "Product_Discount": 50,
+        "Product_Description": "Head-turner is as head-turner does. And a true head-turner knows she has a good thing with this range of Manish Malhotra Hi-Shine Lipsticks by MyGlamm. Intense colours and smooth, glossy textures that add another dimension to your lips. Your new pout favourite glides across like decadent butter. The lipsticks have an even texture with serious staying power. Let your lips do the talking.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hcb/h70/17577818325022/204961207_MAUVE_STRUCK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h04/h7f/17577797484574/204961207_MAUVE_STRUCK_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3d/h2a/17579059806238/204961207_MAUVE_STRUCK_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd3/h29/17578018078750/204961207_MAUVE_STRUCK_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BLUSH"
+    },
+    {
+        "Product_Id": "B011",
+        "Product_Brand": "CHAMBOR",
+        "Product_Title": "Light & Sheer Skin Highlighter Bronze Pearl #02 - 20 ml",
+        "Product_MRP": 1345,
+        "Product_Price": 1076,
+        "Product_Discount": 20,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hbf/h42/17174364749854/205782226_BRONZE_PEARL.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hce/h1c/17174368550942/205782226_BRONZE_PEARL_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc7/h95/17174223519774/205782226_BRONZE_PEARL_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h0a/h95/17174370713630/205782226_BRONZE_PEARL_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hdc/hea/17174340239390/205782226_BRONZE_PEARL_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Bronze Pearl",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BLUSH"
+    },
+    {
+        "Product_Id": "B012",
+        "Product_Brand": "CHAMBOR",
+        "Product_Title": "Luminous Blush - Dusty Rose #06 - 6 gm",
+        "Product_MRP": 775,
+        "Product_Price": 620,
+        "Product_Discount": 20,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h8d/h16/17560755535902/201727115_DUSTY_ROSE06.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hef/h45/17560837521438/201727115_DUSTY_ROSE06_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc8/h3f/17560984518686/201727115_DUSTY_ROSE06_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Dusty Rose06",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BLUSH"
+    },
+    {
+        "Product_Id": "B013",
+        "Product_Brand": "CHAMBORMYGLAMM",
+        "Product_Title": "Pose-Hd Bronzer Duo - Cinnamon | Teracotta - 9 gm",
+        "Product_MRP": 699,
+        "Product_Price": 349,
+        "Product_Discount": 50,
+        "Product_Description": "For Instagram-worthy chiselled features without the extra filters or the workouts, the POSE Bronzer Duo by MyGlamm is all you need! A luminous, high definition, matte formula, this bronzer duo blurs imperfections and creates natural-looking contours. It's lightweight, long-lasting and blends easily.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h5a/h08/17520993304606/206044299_NUDE.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h72/he0/17522789220382/206044299_NUDE_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h7c/h3d/17521090560030/206044299_NUDE_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd2/h3c/17523731955742/206044299_NUDE_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Nude",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BRONZER"
+    },
+    {
+        "Product_Id": "B014",
+        "Product_Brand": "BOBBI BROWN",
+        "Product_Title": "Real Nudes Collection Face And Cheek Palette - Medium",
+        "Product_MRP": 4250,
+        "Product_Price": 4250,
+        "Product_Discount": 0,
+        "Product_Description": "Bronzer And Cheek Color For A Warm, Natural Look. The Essential Face Palette Co-Created With Artists To Enhance The Skin You Are In. The Palette Includes Our Bronzing Powder, Illuminating Bronzing Powder, And Blush In A Trio Of Complementary, Skin-Warming Shades For A Fresh, Natural Look. Face And Cheek Palette - Medium: Bronzing Powder In Medium, Blush In Tawny, Illuminating Bronzer In Chelsea. Benefits & Claims : Three Complementary Cheek Colors In One Palette Allow You To Shape, Shade, Layer, And Enhance For A Real-Skin Glow.? How To Use : Use The Angled Face Brush To Sweep Bronzing Powder And Illuminating Bronzing Powder Over Cheeks, Forehead, Nose And Chin. Then, Use The Blush Brush To Apply Blush, Blending Outward For A Radiant Effect.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/ha9/h48/17070595604510/BB-EPYL020000_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h74/hdd/17070585315358/BB-EPYL020000_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h06/h03/17070685257758/BB-EPYL020000_NoColour_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd7/h8c/17070576992286/BB-EPYL020000_NoColour_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": " No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BRONZER"
+    },
+    {
+        "Product_Id": "B015",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Chisel It Contour Kit - 12 gm",
+        "Product_MRP": 1250,
+        "Product_Price": 1125,
+        "Product_Discount": 10,
+        "Product_Description": "MyGlamm's Chisel It is a buildable trio that includes a bronzer, blush and highlighter that imparts colour for a naturally flushed look. In varying levels of intensity, taking you from day to night - from an everyday, wearable blush to a dramatic sculpted look or a more intense evening glow.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/ha2/h99/17560908496926/206312447_FACE_VALUE.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3f/h9b/17561049923614/206312447_FACE_VALUE_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h78/hee/17560907055134/206312447_FACE_VALUE_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h2a/h9c/17560499945502/206312447_FACE_VALUE_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Face Value",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "BRONZER"
+    },
+    {
+        "Product_Id": "B016",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Lit Radiant Matte Compact_Beat - 9 gm",
+        "Product_MRP": 495,
+        "Product_Price": 247,
+        "Product_Discount": 50,
+        "Product_Description": "The LIT Radiant Matte Compact is enhanced with Advanced Optical Technology that blurs imperfections giving your skin a natural #no filter radiance. Satin matte finish Lightweight formula for all-day comfort, Buildable coverage, Free from parabens, D5, mineral oil, and nano-ingredients, Soft puff applicator.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h51/h91/17523602817054/205725190_MATTE_BEAT.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h26/ha6/17522080677918/205725190_MATTE_BEAT_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h48/h17/17521710956574/205725190_MATTE_BEAT_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Matte Beat",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "COMPACT"
+    },
+    {
+        "Product_Id": "B017",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Skin Cover Foundation Compact with Natural Almond",
+        "Product_MRP": 600,
+        "Product_Price": 600,
+        "Product_Discount": 0,
+        "Product_Description": "Maintain an even skin tone all across your face by applying this scientifically tested compact. It contains a formula invented to protect your skin from the harshness of sunrays. It ensures long lasting coverage, which makes it a perfect addition to your collection of beauty products.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h5e/h39/17529398099998/203052649_IVORY_CREAM_.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hab/h38/17529596543006/203052649_IVORY_CREAM__alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h6e/ha2/17529942048798/203052649_IVORY_CREAM__alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h83/hf4/17529492471838/203052649_IVORY_CREAM__alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h9b/h89/17529931431966/203052649_IVORY_CREAM__alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Ivory Cream",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "COMPACT"
+    },
+    {
+        "Product_Id": "B018",
+        "Product_Brand": "MAYBELLINE",
+        "Product_Title": "Super Stay Matte Ink Liquid Lipstick - Artist - 5 gm",
+        "Product_MRP": 699,
+        "Product_Price": 699,
+        "Product_Discount": 0,
+        "Product_Description": "Introducing the New long-lasting Matte Liquid Lipstick by Maybelline New York. Ink your lips in up to 16-hour saturated liquid matte. SuperStay Matte Ink features a unique arrow applicator for precise application and is available in multiple super saturated shades. Intensely perfect, perfectly intense. Gives you a flawless matte finish. Features: Flawless matte finish - Upto 16 hrs stay. Intensely Pigmented formula. Long-lasting and doesn't dry out lips. Available in collection of super-saturated shades.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h72/hc5/17297870028830/205053532_ARTIST.jpg_230Wx334H", 
+            "https://sslimages.s3-ap-southeast-1.amazonaws.com/sys-master/images/hf9/h2e/17297606803486/205053532_ARTIST_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h21/h09/17297588715550/205053532_ARTIST_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Artist",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "COMPACT"
+    },
+    {
+        "Product_Id": "B019",
+        "Product_Brand": "MAYBELLINE",
+        "Product_Title": "Instant Age Rewind Concealer - Caramel - 6 gm",
+        "Product_MRP": 620,
+        "Product_Price": 620,
+        "Product_Discount": 0,
+        "Product_Description": "Instant Age Rewind Dark Circles Treatment Concealer by Maybelline makes the eye area appear radiant and refreshed in no time. This super-concentrated treatment concealer features a micro-corrector applicator to help instantly erase dark circles and fine lines. Infused with Goji berry and Haloxyl this concealer is a definite must-have to keep you looking fresh even after all the late-night shenanigans. Easy to apply and blend. Doesn't crease or look cakey. Features a micro-corrector applicator.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hbb/h68/17521777344542/204486358_CARAMEL.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf8/ha5/17521046454302/204486358_CARAMEL_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h58/he6/17521225203742/204486358_CARAMEL_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h62/h04/17523053035550/204486358_CARAMEL_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Caramel",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "CONCEALER"
+    },
+    {
+        "Product_Id": "B020",
+        "Product_Brand": "SHISEIDO",
+        "Product_Title": "Sheer Eye Zone Corrector, Natural 103 - 3.8 ml",
+        "Product_MRP": 2000,
+        "Product_Price": 2000,
+        "Product_Discount": 0,
+        "Product_Description": "With a sheer finish, this unique corrector neutralizes dark circles with exclusive color and an ultra-thin formula specifically for the eye zone. Sheer Eye Zone Corrector cancels the discoloration around the eye based on the skin tone around the cheek. Just-applied finish lasts all day.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h9b/h25/17111785177118/9301156_104-NATURAL-OCHRE.jpg_230Wx334H"
+        ],
+        "Product_Color": "Natural Ochre",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "CONCEALER"
+    },
+    {
+        "Product_Id": "B021",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Absolute Argan Oil Serum Foundation with SPF 45 Rose Silk - 15 ml",
+        "Product_MRP": 750,
+        "Product_Price": 750,
+        "Product_Discount": 0,
+        "Product_Description": "For Centuries, Argan Oil From Morocco Has Been Well Known For Its Superior Nourishing Properties. This Age-Old Miracle Ingredient Is Considered To Be So Precious That It Is Also Known As Liquid Gold. In The Last Decade, This Secret Ingredient Became Very Popular In The International Markets With The Use Of Argan Oil In Salon Rituals As Well As Hair And Beauty Products.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h93/hc3/17174524002334/203179938_ROSE_SILK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h52/hac/17174202155038/203179938_ROSE_SILK_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h5b/h7c/17174286499870/203179938_ROSE_SILK_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/he9/ha0/17178305232926/203179938_ROSE_SILK_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h28/h94/17174213361694/203179938_ROSE_SILK_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Rose Silk",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "FOUNDATIONS"
+    },
+    {
+        "Product_Id": "B022",
+        "Product_Brand": "ESTEE LAUDER",
+        "Product_Title": "Futurist Hydra Rescue Moisturizing Foundation SPF 45 - 3N1 Ivory Beige",
+        "Product_MRP": 4000,
+        "Product_Price": 4000,
+        "Product_Discount": 0,
+        "Product_Description": "Flawless makeup with serious skincare. Coverage + Care: Powered with high-performance Estee Lauder skincare. Breathable, skin-loving makeup with a 12-hour radiant glow. This Moisturizing Makeup is infused with our IonCharged Water Complex, plus probiotic technology and chia-seed extract. Clinical testing shows: SOOTHES visible redness and irritation. PROTECTS against pollution with anti-oxidants. HYDRATES instantly and all day.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf0/h70/17080791760926/EL-PE0W10_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd3/ha8/17079371923486/EL-PE0W10_NoColour_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "FOUNDATIONS"
+    },
+    {
+        "Product_Id": "B023",
+        "Product_Brand": "CLARINS",
+        "Product_Title": "Instant Eye Make-Up Remover - 125ml",
+        "Product_MRP": 1800,
+        "Product_Price": 1800,
+        "Product_Discount": 0,
+        "Product_Description": "A bi-phase lotion, with no oily effect, which effectively combines an oil and a water phase to instantly remove all types of eye make-up, even heavy and waterproof formulas. It soothes the eye contour, does not sting the eyes and helps condition lashes. Dermatologist and ophthalmologist tested.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/B8AC9759D45547D9AEF177F0DE13B7C8/img/676F6207642944D6B413CED7768D8B0D/7691425_9999_676F6207642944D6B413CED7768D8B0D.jpg", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h58/hc2/14788825514014/7691425_9999_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "MAKE UP REMOVER"
+    },
+    {
+        "Product_Id": "B024",
+        "Product_Brand": "LAKME",
+        "Product_Title": "9To5 Naturale Gel Makeup Remover - 50 g",
+        "Product_MRP": 175,
+        "Product_Price": 175,
+        "Product_Discount": 0,
+        "Product_Description": "Removing your makeup before going to bed is essential to your skin�s health. Sleeping with your make up on and daily city dust and pollution clogs pores, leads to acne and break outs and hampers the skin�s natural renewal process that happens at night while you sleep. This makes your skin look dull and age prematurely. Lakm� 9to5 Naturale brings you a gel make up remover enriched with 100% pure aloe vera that melts away even the long stay and waterproof make-up, dirt, pollution and impurities in a few seconds.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hfb/hed/16566119333918/206171502_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h57/hfb/16564575797278/206171502_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h99/h8f/16567551557662/206171502_NoColour_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "MAKE UP REMOVER"
+    },
+    {
+        "Product_Id": "B025",
+        "Product_Brand": "MAC",
+        "Product_Title": "Prep + Prime Fix + Original 100 ml - 100 ml",
+        "Product_MRP": 1950,
+        "Product_Price": 1950,
+        "Product_Discount": 0,
+        "Product_Description": "A lightweight mist of water packed with vitamins and minerals, infused with a blend of green tea, chamomile and cucumber to gently soothe and refresh the skin. Gives an instant boost of hydration while delivering a soft sheen to refresh and finish makeup. Hold bottle 12 inches away from face and spray evenlyMist on to freshly washed skin to hydrate before applying moisturiserMist on top of foundation to finish makeup and add a glow Mist on to skin throughout the day for an instant boost of hydration and to refresh makeup.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf7/hcf/16646718259230/9277944_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd8/hcb/16674824454174/9277944_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h1b/h44/16671118884894/9277944_NoColour_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Face",
+        "OCCASION": "PRIMERS"
+    },
+    {
+        "Product_Id": "B026",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Tinted Perfection - 30 gm",
+        "Product_MRP": 1095,
+        "Product_Price": 985,
+        "Product_Discount": 10,
+        "Product_Description": "This multi-action balmy primer formula instantly targets visible pores, uneven skin texture and excess oil. Base Primer, Pore Minimiser, Reduces the appearance of pores and fine lines and uneven texture.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hd0/h82/14104131567646/204132055_9999.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h4c/h40/14105703481374/204132055_9999_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h3c/h93/14105715736606/204132055_9999_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Beige",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "PRIMERS"
+    },
+    {
+        "Product_Id": "B027",
+        "Product_Brand": "MAC",
+        "Product_Title": "Easy To Love Me Lipstick Kit",
+        "Product_MRP": 3500,
+        "Product_Price": 3500,
+        "Product_Discount": 0,
+        "Product_Description": "Love at first swipe! Fall in love with a limited-edition trio of argan oil-infused Lipstick that delivers an instant hit of powerful colour and all-day moisture. This Ulta-exclusive kit invites you to Love Me with Lipsticks such as E For Effortless, Laissez-Faire and Under The Covers.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/he5/h80/16600976654366/MAC-SN2L01_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h05/h60/16601222938654/MAC-SN2L01_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h32/h1a/16601155665950/MAC-SN2L01_NoColour_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/he7/h49/16601321308190/MAC-SN2L01_NoColour_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Face",
+        "OCCASION": "MAKEUP KIT"
+    },
+    {
+        "Product_Id": "B028",
+        "Product_Brand": "REVLON",
+        "Product_Title": "Enigma (Colorstay Looks Book Palette) - 3.4 gm",
+        "Product_MRP": 1450,
+        "Product_Price": 1450,
+        "Product_Discount": 0,
+        "Product_Description": "Find yourself in an eyeshadow palette with Revlon Colorstay Looks Book Eyeshadow Palette! There's a high-impact color scheme - in shimmer, matte, and metallic to match your every mood. With an edit of 8 coordinated colors that are exceptionally pigmented with high impact, the palettes are designed to be portable, they truly fit anywhere. The super slim size can be tucked in your bag, clutch or even pocket.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h05/h1c/17560988450846/206266420_ENIGMA.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h8c/h6e/17560408195102/206266420_ENIGMA_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hed/h52/17560764645406/206266420_ENIGMA_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/ha3/ha6/17560809406494/206266420_ENIGMA_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h94/h5f/17560691736606/206266420_ENIGMA_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Enigma",
+        "Delivery_Type": "Express",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYEBROWS"
+    },
+    {
+        "Product_Id": "B029",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Absolute Spotlight Eye Shadow Palette, Stilettos, 12 g",
+        "Product_MRP": 995,
+        "Product_Price": 995,
+        "Product_Discount": 0,
+        "Product_Description": "Who says eyeshadows are reserved only for special occasions? Introducing the new Lakm? Absolute Spotlight Eye Shadow Palettes. Unveil a new and confident you, as you step into the spotlight with your eyeshadow that redefines you. With the perfect combination of 48 striking shimmers and intense mattes, it?s time to switch from party to spotlight ready! Choose your favourite from 4 versatile palettes: Smokin' Hot, Stilettos, Sundowner and Berry Martini.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hda/h05/17544553136158/AW20LAKME816161ss_STILETTOS.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/heb/hd5/17544301248542/AW20LAKME816161ss_STILETTOS_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h80/h94/17544137146398/AW20LAKME816161ss_STILETTOS_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h5d/h58/17544531771422/AW20LAKME816161ss_STILETTOS_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h8a/h07/17544650391582/AW20LAKME816161ss_STILETTOS_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Stilettos",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYEBROWS"
+    },
+    {
+        "Product_Id": "B030",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Eyeconic Kajal Twin Pack - 0.35g + 0.35g",
+        "Product_MRP": 310,
+        "Product_Price": 310,
+        "Product_Discount": 0,
+        "Product_Description": "Accentuate the beauty of your eyes with the Lakme Eyeconic Kajal. This dermatologically tested kajal is just what you need for completing your eye makeup or carrying a simple, only-kajal look. It's a smudge proof, water proof kajal and can add the dramatic and glamorous look to your eyes. It has intense matte texture for Eyeconic eyes.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h6a/hb0/17529888899102/204678152_DEEP_BLACK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h6a/hb0/17529888899102/204678152_DEEP_BLACK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h0e/h37/17529371623454/204678152_DEEP_BLACK_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h41/h2a/17529588875294/204678152_DEEP_BLACK_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h09/hbd/17529663520798/204678152_DEEP_BLACK_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "Deep Black",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYE PENCILS & EYE KAJAL"
+    },
+    {
+        "Product_Id": "B031",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Manish Malhotra Metallic Chalks - 3.5 gm",
+        "Product_MRP": 890,
+        "Product_Price": 445,
+        "Product_Discount": 50,
+        "Product_Description": "MyGlamm makes looking and living glamorous, as effortless as can be, for every woman. Our innovative, multitasking products are 100% cruelty-free, and use the finest ingredients that both nature and science have to offer.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h09/h6d/16564870774814/206804406_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h91/h1d/16566820208670/206804406_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf8/h10/16568191352862/206804406_NoColour_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYE PENCILS & EYE KAJAL"
+    },
+    {
+        "Product_Id": "B032",
+        "Product_Brand": "BOBBI BROWN",
+        "Product_Title": "Mini Long Wear Cream Shadow Stick Golden Bronze",
+        "Product_MRP": 1800,
+        "Product_Price": 1800,
+        "Product_Discount": 0,
+        "Product_Description": "What It Is: A Long-Lasting, Do-It-All Eye Shadow That's A Stroke Of Genius Just Swipe And Go. This Budge-Proof Formula Stays Put For 8 Hours. Who Its For: Women Who Want To Get Gorgeous Eyes In One Simple Step.Why Its Different: Glides On Lids Tug-Free And Can Be Used To Shade, Define, Smoke Up And Highlight Eyes. Comes In Subtle To Eye-Popping Shades That Last For Up To 8 Hours Without Creasing, Flaking Or Fading (And Its Completely Waterproof).",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h9b/hd6/17578998693918/BB-ETF209_base_GOLDEN_BRONZE.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf9/h87/17578218422302/BB-ETF209_base_GOLDEN_BRONZE_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "Golden Bronze",
+        "Delivery_Type": "Express",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYE SHADOW"
+    },
+    {
+        "Product_Id": "B033",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Manish Malhotra 9 In 1 Eyeshadow Palette - 9 gm",
+        "Product_MRP": 1850,
+        "Product_Price": 925,
+        "Product_Discount": 50,
+        "Product_Description": "They gleam and glow, sleek like liquid metal and smooth like cream—perfect companions for a night about town or a glamorous day out. The Manish Malhotra 9 in 1 Eyeshadow Palette by MyGlamm delivers powerful, statement colour in three luxurious finishes—foil, metallic and matte, to help you create everything from a smouldering, smoky eye, to an attention-grabbing splash of colour and everything between. Powder-free, creamy and long-lasting, one swipe is all it takes to get ready. Eye candy, quite literally.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hb6/h44/17521960812574/206780934_ENCHANTE.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h98/hda/17523132366878/206780934_ENCHANTE_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h15/h69/17521407197214/206780934_ENCHANTE_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h21/hc7/17521788092446/206780934_ENCHANTE_alt3.jpg_230Wx334H"
+        ],
+        "Product_Color": "Enchante",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYE SHADOW"
+    },
+    {
+        "Product_Id": "B034",
+        "Product_Brand": "LAKME",
+        "Product_Title": "Eyeconic Liner Pen Fine Tip - 1 ml",
+        "Product_MRP": 475,
+        "Product_Price": 475,
+        "Product_Discount": 0,
+        "Product_Description": "Lakme introduces the newest trend that allows you to style your eyes in more than one way. Introducing which comes with two interesting nibs: Fine tip and Block Tip. Get precision lined eyes and an intense black finish with the new Lakme Eyeconic Liner Pen ï¿½ Fine Tip, which is perfect for an everyday look. On days when you want to look dramatic, get an intense, bold black finish with the Lakme Eyeconic Liner Pen - Block Tip.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf6/h41/17529326272542/203431793_BLACK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf6/h41/17529326272542/203431793_BLACK.jpg_230Wx334H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYELINER"
+    },
+    {
+        "Product_Id": "B035",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Jet Set Eyes Kajal - Eyeliner - 0.35 gm",
+        "Product_MRP": 750,
+        "Product_Price": 375,
+        "Product_Discount": 50,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h24/h80/17521056743454/203511660_JET_BLACK.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h1a/he6/17521584734238/203511660_JET_BLACK_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h28/hf6/17521377968158/203511660_JET_BLACK_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Jet Black",
+        "Delivery_Type": "Express",
+        "Product_Category": "Eyes",
+        "OCCASION": "EYELINER"
+    },
+    {
+        "Product_Id": "B036",
+        "Product_Brand": "MAYBELLINE",
+        "Product_Title": "Hypercurl Mascara Waterproof - 9.2 gm",
+        "Product_MRP": 399,
+        "Product_Price": 399,
+        "Product_Discount": 0,
+        "Product_Description": "Volumized + curled lashes for 18 hours!. With exclusive curl-lock waterproof formula Vol: 9.2 ml",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h8a/hed/17580809093150/6228399_BLACK.jpg_230Wx334H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Express",
+        "Product_Category": "Eyes",
+        "OCCASION": "MASCARA"
+    },
+    {
+        "Product_Id": "B037",
+        "Product_Brand": "REVLON",
+        "Product_Title": "Water Tight Mascara BLACK 8ML",
+        "Product_MRP": 540,
+        "Product_Price": 540,
+        "Product_Discount": 0,
+        "Product_Description": "Color- Black, Size, 8ml. The product is water resistant",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h73/h84/17522135662622/3043894_BLACK.jpg_230Wx334H"
+        ],
+        "Product_Color": "Black",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Eyes",
+        "OCCASION": "MASCARA"
+    },
+    {
+        "Product_Id": "B038",
+        "Product_Brand": "COLORBAR",
+        "Product_Title": "Oh So Happy Lippy Lip Balm - 4.8 Gm",
+        "Product_MRP": 699,
+        "Product_Price": 524,
+        "Product_Discount": 25,
+        "Product_Description": "Stock up on pure bliss with our revolutionary lippy that will increase your happiness by 2. 8 times within 30 minutes. Our magical happiness complex is packed with magical ingredients which produce serotonin naturally, the happy chemical that contributes to wellbeing and happiness in the human body. Made for all genders because everyone deserves to be happy.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h52/h21/16565353512990/206287156_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h15/h82/16568030330910/206287156_NoColour_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP BALM"
+    },
+    {
+        "Product_Id": "B039",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Lit - Ph Lip Balm - Rose All Day - 2 gm",
+        "Product_MRP": 345,
+        "Product_Price": 345,
+        "Product_Discount": 0,
+        "Product_Description": "Get that inner glow on centre stage with this luminous matte compact. The LIT Radiant Matte Compact by MyGlamm is enhanced with Advanced Optical Technology that blurs imperfections giving your skin a natural #nofilter radiance. Its lightweight formulation blends effortlessly into the skin for an even finish. Keep this illuminating compact handy for glow on the go!",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h67/h79/17560754749470/204992889_ROSE_ALL__DAY.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h35/h04/17560739872798/204992889_ROSE_ALL__DAY_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hbf/hc6/17560546738206/204992889_ROSE_ALL__DAY_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Rose All Day",
+        "Delivery_Type": "Express",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP BALM"
+    },
+    {
+        "Product_Id": "B040",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Manish Malhotra Hi-Shine Lipgloss - Copper Rose - 5 gm",
+        "Product_MRP": 1050,
+        "Product_Price": 525,
+        "Product_Discount": 50,
+        "Product_Description": "Pair it with a lipstick and it’ll amp up the shade. Wear it alone, and you shine – literally. It’s the quickest, surest way to stand out at any occasion, and at any time – day or night. A single stroke of the Manish Malhotra Hi-Shine Lipgloss by MyGlamm is all it takes to get glamorous, shimmery lips. And it totally lives up to its name; depending on the way the light hits you, with every move you make, the colour turns a shade.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h60/ha5/17560841846814/204961231_COPPER_ROSE.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h11/h38/17560288428062/204961231_COPPER_ROSE_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf7/h66/17560547459102/204961231_COPPER_ROSE_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hf7/h66/17560547459102/204961231_COPPER_ROSE_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "Copper Rose",
+        "Delivery_Type": "Express",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP GLOSS"
+    },
+    {
+        "Product_Id": "B041",
+        "Product_Brand": "ELIZABETH ARDEN",
+        "Product_Title": "Bronze Vibes Liquid Lip Gloss- Cheeky?",
+        "Product_MRP": 1700,
+        "Product_Price": 1700,
+        "Product_Discount": 0,
+        "Product_Description": "This irresistible conditioning lip gloss dazzles with high-shine iridescence while giving you lips that feel moisturized. High shine color with a smooth, glossy finish.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hc3/h7d/17543716634654/FA0ARDEN5218874ss_13G_CHEEKY.jpg_230Wx334H"
+        ],
+        "Product_Color": "Cheeky",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP GLOSS"
+    },
+    {
+        "Product_Id": "B042",
+        "Product_Brand": "COLORBAR",
+        "Product_Title": "Lip Definer Lip Liner Pencil DLLN015",
+        "Product_MRP": 675,
+        "Product_Price": 506,
+        "Product_Discount": 25,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hf8/hb3/16923047788574/S21CB4052431824_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h26/h95/16922871562270/S21CB4052431824_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hbe/h1f/16922820640798/S21CB4052431824_NoColour_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP LINERS"
+    },
+    {
+        "Product_Id": "B043",
+        "Product_Brand": "COLORBAR",
+        "Product_Title": "You Go Girl Lip Liner Pencil YGL009 - 0.07 gm",
+        "Product_MRP": 695,
+        "Product_Price": 521,
+        "Product_Discount": 25,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h1c/he7/16750687485982/FA0CB4052433279_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hd2/hd4/16750190034974/FA0CB4052433279_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc1/h04/16750931083294/FA0CB4052433279_NoColour_alt2.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Lips",
+        "OCCASION": "LIP LINERS"
+    },
+    {
+        "Product_Id": "B044",
+        "Product_Brand": "FACES",
+        "Product_Title": "Weightless Creme Lipstick 4 g Amber 14",
+        "Product_MRP": 249,
+        "Product_Price": 249,
+        "Product_Discount": 0,
+        "Product_Description": "Shine bright like a diamond! 20 vibrant shades, flaunt an irresistible glossy pout with the timeless shades of the Weightless Cr?me Lipstick. Enriched with Shea butter, Jojoba and Almond oil experience long-lasting sheen on soft, moisturised lips. Infused with the goodness of Vitamin E, the intense color, nourishing power and rich pigments of this lipstick will make you fall in love with it.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h55/hbf/17160542191646/203356770_WINE.jpg_1088Wx1632H"
+        ],
+        "Product_Color": "Wine",
+        "Delivery_Type": "Express",
+        "Product_Category": "Lips",
+        "OCCASION": "LIPSTICK"
+    },
+    {
+        "Product_Id": "B045",
+        "Product_Brand": "LAKME",
+        "Product_Title": "9TO5 Primer + Matte Lip Color Burgundy Passion 3.6 g",
+        "Product_MRP": 525,
+        "Product_Price": 525,
+        "Product_Discount": 0,
+        "Product_Description": "An Unstoppable Matte, For An Unstoppable You! Introducing Lakme 9To5 Primer+Matte Lipstick, With 2X Built-In Primer That Gives Your Lips A Long-Lasting, Smooth Matte Finish. It Glides Onto Your Lips Smoothly And Feels Extremely Comfortable And Lightweight. The Built-In Primer Ensures That The Color Settles Onto Your Lips Evenly.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hfe/hbb/16925770514462/S21LAK030815959_NoColour.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h80/h5e/16925858955294/S21LAK030815959_NoColour_alt1.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hc4/hc9/16925886742558/S21LAK030815959_NoColour_alt2.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/hb0/h68/16925839884318/S21LAK030815959_NoColour_alt3.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h92/hc3/16925864787998/S21LAK030815959_NoColour_alt4.jpg_230Wx334H"
+        ],
+        "Product_Color": "No Colour",
+        "Delivery_Type": "Express",
+        "Product_Category": "Lips",
+        "OCCASION": "LIPSTICK"
+    },
+    {
+        "Product_Id": "B046",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Lit Liquid Matte Lipstick - 3 ml",
+        "Product_MRP": 395,
+        "Product_Price": 197,
+        "Product_Discount": 50,
+        "Product_Description": "You found The One! Trust us, ladies, this liquid matte lipstick will be your new love! The LIT Liquid Matte Lipstick by MyGlamm gives you soft, kiss-proof lips, no smudges or transfers, just pure, intense colour! Best of all, it's enriched with Moringa Oil that moisturises and smoothens dry, damaged lips.",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/hd7/h79/17560549818398/206312432_LOVE_BOMB.jpg_230Wx334H"
+        ],
+        "Product_Color": "Love Bomb",
+        "Delivery_Type": "Express",
+        "Product_Category": "Lips",
+        "OCCASION": "LIQUID LIPSTICK"
+    },
+    {
+        "Product_Id": "B047",
+        "Product_Brand": "MYGLAMM",
+        "Product_Title": "Manish Malhotra Liquid Matte Lipstick - 7 gm",
+        "Product_MRP": 995,
+        "Product_Price": 497,
+        "Product_Discount": 50,
+        "Product_Description": ".",
+        "Product_Image": [
+            "https://sslimages.shoppersstop.com/sys-master/images/h3c/h2e/17522969280542/206324024_CARAMEL_QUEST.jpg_230Wx334H", 
+            "https://sslimages.shoppersstop.com/sys-master/images/h61/h34/17521236803614/206324024_CARAMEL_QUEST_alt1.jpg_230Wx334H"
+        ],
+        "Product_Color": "Caramel Quest",
+        "Delivery_Type": "Normal",
+        "Product_Category": "Lips",
+        "OCCASION": "LIQUID LIPSTICK"
+    }
+]
+
+
