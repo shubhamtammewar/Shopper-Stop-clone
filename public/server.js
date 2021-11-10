@@ -4,7 +4,11 @@ const { json } = require('node:stream/consumers');
 
 const server = http.createServer((req, res) => {
 
-    if (req.url === '/watch') {
+    if (req.url === '/all') {
+        fs.readFile(`${__dirname}/JSONDATA/all.json`, 'UTF-8', (err, data) => {
+            res.end(data);
+        })
+    } else if (req.url === '/watch') {
         fs.readFile(`${__dirname}/JSONDATA/watch.json`, 'UTF-8', (err, data) => {
             res.end(data);
         })
@@ -39,4 +43,13 @@ server.listen(8080, "127.0.0.1", () => {
 });
 
 
-// http://localhost:8080/men
+// http://localhost:8080
+
+// node server.js
+// run this command
+
+
+// http://localhost:8080/all - all products
+// http://localhost:8080/men - men products
+// http://localhost:8080/women - women products
+// http://localhost:8080/watch - watch products

@@ -14,7 +14,7 @@
 .sub5{
    display: grid;
    grid-template-columns:24% 24% 24%;
-   column-gap: 0.1em;
+   column-gap: 4%;
    margin-top: 10%;
    margin-left: 4%;
 }
@@ -35,7 +35,7 @@
    display: grid;
    grid-template-columns:20% 20% 20% 20%;
    margin-top:0.011%;
-   margin-left: 12%;
+   margin-left: 6%;
    gap:2px;
 }
 h5{
@@ -60,7 +60,7 @@ strong{
   grid-template-columns: 30% 30% 30% ;
   justify-content:space-between;
   width: 100%;
-  margin-left: 2%;
+  margin-left: 1%;
   column-gap: 8%;
 }
 .footer2{
@@ -155,8 +155,10 @@ li{
 }
 #ft2{
  margin-left: 20.5%;}
- @media only screen and (max-width:300px){
-     .footer {
-       
-     }
+ @media only screen and (max-width:600px){
+      .sub4 .sub1{
+        display:none
+      }
+            
+     
  }
