@@ -54,6 +54,9 @@
     padding: 12px 20px 12px 40px;
     margin: 0 0 0 5em;
   }
+  input:focus{
+    outline: none;
+   }
 
 
   #mediasearchinput {
@@ -140,11 +143,12 @@
     margin: 0 15em;
   }
 
-
-  .navbar a:hover,
-  .dropdown:hover .dropbtn {
+  .dropdown:hover .dropbtn{
+    border-bottom: 3px solid red;
+  }
+  .navbar a:hover {
     text-decoration: underline;
-    color: red;
+    color: red; 
     
     box-shadow: 0px 8px 16px 0px rgba(59, 59, 59, 0.2);
 
@@ -286,10 +290,10 @@
     padding: 10px 12px;
 
   }
-
+  /* ******************** signin signup container *********** */
   .container {
     position: absolute;
-    top:50%;
+    top:60%;
     left: 50%;
     transform: translate(-50%, -50%);
   }
