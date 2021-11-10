@@ -44,3 +44,12 @@ server.listen(8080, "127.0.0.1", () => {
 
 
 // http://localhost:8080
+
+// node server.js
+// run this command
+
+
+// http://localhost:8080/all - all products
+// http://localhost:8080/men - men products
+// http://localhost:8080/women - women products
+// http://localhost:8080/watch - watch products
