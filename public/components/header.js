@@ -25,7 +25,7 @@ function header() {
           <div id="main-img">
             <img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" />
           </div>
-          <form>
+          <form id="searchform">
             <input id="searchinput" type="text" name="search" placeholder="Search products and Brands" />
           </form>
           <div id="searchicon-media" class="top-dropdown">
@@ -73,7 +73,7 @@ function header() {
     
       <hr>
       <div id="searchdiv" class="mediasearchdiv">
-        <form>
+        <form id="media_searchform">
           <input id="mediasearchinput" type="text" name="search" placeholder="Search products and Brands" />
         </form>
       </div>
