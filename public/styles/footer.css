@@ -155,8 +155,23 @@ li{
 }
 #ft2{
  margin-left: 20.5%;}
- @media only screen and (max-width:300px){
-     .footer {
-       
-     }
+
+@media only screen and (max-width:600px){
+  .sub1, .sub5, h5, #hi{
+    display: none;
+  }
+
+  .sub3{
+  display: grid;
+  grid-template-columns:20% 20% 20% 20%;
+  gap:20%;
+  margin-top: 11%;
+  margin-left: -80%; 
+  text-align: center;
+  }
+
+  .footer1, .footer2{
+    display: none;
+  }
  }
+
