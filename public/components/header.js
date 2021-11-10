@@ -1,7 +1,7 @@
 function header() {
 
 
-    return `
+  return `
     
     <header>
         <div id="left-header">
@@ -2249,7 +2249,7 @@ function header() {
     
           </div>
           <div>
-            <a href=""><img src="https://i.pinimg.com/originals/3b/08/96/3b089643ac6ebc6909ee89fca6c590b1.jpg"
+            <a href=""><img src="https://wallup.net/wp-content/uploads/2017/11/17/230758-watch-luxury_watches.jpg"
                   alt="WATCHES"></a>
               <p>Watches </p>
            
@@ -2291,20 +2291,23 @@ function header() {
           
           <h4>SIGN IN</h4>
           <h5 class="h5signin">Don't have an account? <a href="signup"><label for="signupdiv">Sign Up</label></a> </h5>
+          <form id="signinform">
           <div class="sign-up-form">
     
             <div class="email">
-              <input type="email" name="signinEmail" id="signinemail" title="Email address"
+              <input required="required" type="email" name="signinEmail" id="signinemail" title="Email address"
                 placeholder="Email or Mobile Number" autocomplete="off" />
             </div>
     
             <div class="password">
-              <input type="password" name="signinPassword" id="signinPassword" title="Password" placeholder="Password"
+              <input required="required" type="password" name="signinPassword" id="signinPassword" title="Password" placeholder="Password"
                 autocomplete="off" maxlength="15" />
             </div>
-            <p id="message"></p>
+            <p id="signinmessage"></p>
             <button class="signinbtn" id="signinbutton" style="cursor: pointer;">SIGN IN</button>
+
           </div>
+          </form>
     
           <div>
             <p><a href="#">Sign in with OTP</a> <a href="#">Forgot Password?</a></p>
@@ -2332,28 +2335,29 @@ function header() {
       <div class="center">
         <input type="checkbox" id="signupdiv" />
         <div class="container">
-          
+         
           <label for="signupdiv" class="close-btn fas fa-times" title="close"></label>
           <h4>SIGN UP</h4>
           <h5>Create your account on Shoppers Stop:</h5>
+          <form id="signupform">
           <div class="sign-up-form">
             <div class="fullname">
-              <input type="text" name="signupFullName" id="signupFullName" maxlength="75"
+              <input required="required" type="text" name="signupFullName" id="signupFullName" maxlength="75"
                 title="Please enter valid First Name &amp; Last Name*" placeholder="First Name &amp; Last Name*" />
             </div>
     
             <div class="email">
-              <input type="email" name="signupEmail" id="signupemail" title="Email address" placeholder="Email*"
+              <input required="required" type="email" name="signupEmail" id="signupemail" title="Email address" placeholder="Email*"
                 autocomplete="off" />
             </div>
     
             <div class="mobileno">
-              <input type="tel" name="signupMobileNumber" id="signupMobileNumber" title="Mobile Number (10 digits)"
+              <input required="required" type="tel" name="signupMobileNumber" id="signupMobileNumber" title="Mobile Number (10 digits)"
                 placeholder="   Mobile Number (10 digits)*" maxlength="10" />
             </div>
     
             <div class="password">
-              <input type="password" name="signupPassword" id="signupPassword"
+              <input required="required" type="password" name="signupPassword" id="signupPassword"
                 title="Set a password (min 6 &amp; max 15 characters)"
                 placeholder="Set a password (min 6 &amp; max 15 characters)*" autocomplete="off" maxlength="15" />
             </div>
@@ -2364,11 +2368,12 @@ function header() {
               <input type="radio" name="gender" id="men" value="MALE" />
               <label for="men">Male</label>
             </div>
-            <p id="message"></p>
+            <p id="signupmessage"></p>
             <button class="continue" id="signupbutton" style="cursor: pointer">
               CONTINUE
             </button>
           </div>
+          </form>
           <div style="margin-top: 50px"></div>
           <hr />
           <div class="loginsocial">Login with social media</div>
