@@ -1,0 +1,162 @@
+
+.sub1{ 
+   display: grid;
+   grid-template-columns: 50px 50px;
+   gap: 85px;
+   margin-left: 4%;
+}
+.sub3{
+   display: grid;
+   grid-template-columns:20% 20% 20% 20%;
+   gap:2%;
+   margin-top: 11%;
+}
+.sub5{
+   display: grid;
+   grid-template-columns:24% 24% 24%;
+   column-gap: 0.1em;
+   margin-top: 10%;
+   margin-left: 4%;
+}
+.sub6{
+   display: grid;
+   grid-template-columns:35% 35%;
+   grid: 3%;
+   margin-top:15%;
+}
+.sub7{
+   display: grid;
+   grid-template-columns:20% 20% 20% 20%;
+   margin-top:0.011%;
+   margin-left: 12%;
+   gap:0.5%;
+}
+.sub8{
+   display: grid;
+   grid-template-columns:20% 20% 20% 20%;
+   margin-top:0.011%;
+   margin-left: 12%;
+   gap:2px;
+}
+h5{
+  margin-left: 15%;
+  
+}
+strong{
+  padding-left:17%;
+  padding-top: 1%;
+}
+.footer{
+  display: grid;
+  grid-template-columns: 30% 30% 30% ;
+  justify-content:space-between;
+  background-color:#FAFAFA;
+  width: 100%;
+  margin-left: 2%;
+  column-gap: 8%;
+}
+.footer1{
+  display: grid;
+  grid-template-columns: 30% 30% 30% ;
+  justify-content:space-between;
+  width: 100%;
+  margin-left: 2%;
+  column-gap: 8%;
+}
+.footer2{
+  display: grid;
+  grid-template-columns: 30% 30% 30%;
+  justify-content:space-between; 
+  width: 100%;
+  margin-left: 2%;
+  column-gap: 8%;
+}
+.footer3{
+  display: grid;
+  grid-template-columns: 15% 15% 15% 15% 15% 15%;
+  justify-content:space-between;
+
+  gap:1%;
+ 
+  margin-left: 10%;
+  margin-right: 5%;
+  margin-top: 3%;
+}
+.footer4{
+  display: grid;
+  grid-template-columns: 12% 12% 12% 12% 12% 12%;
+  justify-content:space-between;
+  gap:5%;
+  background-color: black;
+  width: 1350px;
+
+}
+ul{
+  list-style-type: none;
+}
+li{
+  color:grey;
+}
+#ap{
+  width:120px;
+  height:40px;
+}
+#gp1,#ap1,#js1,#js2{
+ width:40px;
+ height:50px;
+}
+.st{
+ margin-left: 1%;
+}
+#im1{
+ width:50px;height:50px;margin-left: 80%;margin-top: 0.01%;
+}
+#s1{
+ color: grey;vertical-align: top;font-weight: 200;font-size: 16px;margin-top: 6.5%;
+}
+#v1{
+ color:grey;margin-top:18%;margin-left:35%;
+}
+#v2{
+ color:grey;margin-top:18%;margin-left:30%;
+}
+.i1{
+ width:70px;height:40px;
+}
+.i2{
+ width:60px;height:60px;
+}
+.a1{
+ color:black;margin-left:1%;
+}
+.p2{
+ font-size: 12px;padding-bottom: 1%;
+}
+#li1{
+ padding-bottom: 0.2%;margin-left: 5%;
+}
+#subdiv{
+ display: flex;gap:20%;
+}
+#BrandSelect{
+ height:40px;width:350px;margin-left: 1%;border: solid 2px black;border-radius:15px;
+}
+#sub41{
+ padding-top: 15%;
+}
+#hi{
+ margin-left:22%;
+}
+.c1{
+ color:whitesmoke;
+}
+.b{
+ color:red;
+}
+#ft2{
+ margin-left: 20.5%;}
+ @media only screen and (max-width:300px){
+     .footer {
+       
+     }
+ }
