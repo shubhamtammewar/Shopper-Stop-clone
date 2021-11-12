@@ -1,0 +1,112 @@
+.top{
+    text-align: center;
+    font-size:15px;
+    color:rgb(41, 39, 39);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height:20px;
+    background:rgb(243, 208, 195);
+    border:1px solid rgb(241, 174, 149);
+    padding: 20px;
+}
+
+
+
+
+
+.line{
+    height:1px;
+    background-color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+body{
+    background-color:rgb(229, 229, 240);
+}
+ul, ul a{
+    text-decoration: none;
+    list-style: none;
+    color:rgb(37, 36, 36);
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+button{
+    background:rgb(240, 109, 62);
+    width: 100%;
+}
+#userdetails{
+
+    background:rgb(240, 109, 62)
+   
+}
+#product_container {
+      
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-gap: 25px;
+    justify-content: center;
+
+  }
+  #product_container #maindiv {
+    margin: top 100px;
+    border: 0.2px solid black;
+    max-height: 652px !important;
+  
+  }
+
+  #product_container #maindiv div {
+    border-top: 0.2px solid black;
+  }
+
+  #product_container p,
+  h4 {
+    text-align: center;
+  }
+ 
+@media screen and (min-width: 100px) and (max-width:614px) {
+    .box{
+        display: flex;
+        flex-direction: column;
+    }
+    .left{
+        width:100%;
+        display: flex;
+        flex-direction:column;
+        margin-top: 20px;
+        text-align: start;
+        padding:20px;
+        background:white;
+    }
+    .right{
+        width:100%;
+        background:white;
+        margin: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+}
+  @media screen and (min-width: 614px)  {
+    .box{
+        display: flex;
+        flex-direction: row;
+    }
+    .left{
+        width:20%;
+        display: flex;
+        flex-direction:column;
+        margin-top: 20px;
+        text-align: start;
+        padding:20px;
+       background:white;
+    }
+   
+    .right{
+        width:80%;
+        background:white;
+        margin: 20px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+  }
+  
+
+ 
