@@ -13,9 +13,10 @@ function footers() {
           <p class="st">Authentic<br/>Products</p></div>
           <div><img id="ap1" src="https://uxwing.com/wp-content/themes/uxwing/download/30-logistics-shipping-delivery/delivery-truck.svg"/>
           <p class="st">Free<br/>Delivery*</p></div>
-          <div><img id="js1" src="https://image.shutterstock.com/image-vector/easy-returns-vector-logo-trust-600w-2022626432.jpg" alt=""/><p style="margin-left: 14%;">Easy<br/>Exchange<br/>and Return</p></div>
+          <div><img id="js1" src="https://image.shutterstock.com/image-vector/easy-returns-vector-logo-trust-600w-2022626432.jpg" alt=""/><p class="st3" style="margin-left: 14%">Easy Exchange and Return</p>
+          </div>
           <div><img id="js2" src="https://icon-library.com/images/delivered-icon/delivered-icon-22.jpg" alt=""/>
-              <p class="st">Express<br/>Store Pickup</p></div> 
+          <p class="st">Express Store Pickup</p></div> 
       </div>
   
       <div class="sub4">

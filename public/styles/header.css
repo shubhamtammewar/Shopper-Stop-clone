@@ -124,10 +124,10 @@ input:focus {
   border: none;
   outline: none;
   color: black;
-  padding: 8px 10px;
+  padding: 8px 8px;
   background-color: inherit;
   font-family: inherit;
-  margin: 0;
+  margin: 6px 0 12px 0;
   width: 100%;
 }
 
