@@ -215,9 +215,6 @@ function header() {
                       <li><a>Skincare - upto 40% off</a></li>
                       <li><a>Womens Fragrances - upto 40% off</a></li>
                       <li><a>Men Fragrances - upto 50% off</a></li>
-    
-    
-    
                     </ul>
                   </div>
                   <div>
@@ -235,9 +232,6 @@ function header() {
               <div class="idropdown">
                 <li class="idropbtn" id="all_offer_products">All offers products</li>
                 <div class="idropdown-content">
-    
-    
-    
                   <div>
                     <ul>
                       <li><a>See All Offer Products</a></li>

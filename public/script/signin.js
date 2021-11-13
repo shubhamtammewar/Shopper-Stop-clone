@@ -1,18 +1,21 @@
 import {
     data
-} from "../JSONDATA/database.js";
+} from "./database.js";
+
+
 
 setTimeout(() => {
     document.getElementById("searchbtn").onclick = function () {
         myFunction()
     };
-
-    function myFunction() {
+   function myFunction() {
         document.getElementById("searchdiv").classList.toggle("show");
     }
 
     document.getElementById("signupform").addEventListener("submit", Signup);
     document.getElementById("signinform").addEventListener("submit", Login);
+
+    
 
     function Signup(e) {
         e.preventDefault();
@@ -36,8 +39,17 @@ setTimeout(() => {
         let email = document.getElementById("signinemail").value;
         for (let index = 0; index < user_details.length; index++) {
             if ((user_details[index].email == email) && (user_details[index].password == password)) {
+                if (localStorage.getItem("temp_user_details") != null) {
+                    localStorage.removeItem("temp_user_details");
+                }
+                if (localStorage.getItem("temp_user_details") === null) {
+                    localStorage.setItem("temp_user_details", JSON.stringify([]));
+                }
+                let x= JSON.parse(localStorage.getItem("temp_user_details"))
+                x.push(user_details[index]);
+                localStorage.setItem("temp_user_details", JSON.stringify(x))
                 alert("Welcome back " + `${(user_details[index].name)}`);
-                window.history.back();
+                window.location.reload();
                 return;
             }
         }
@@ -45,6 +57,44 @@ setTimeout(() => {
 
 
     }
+    if (localStorage.getItem("wishlistproducts") === null) {
+        localStorage.setItem("wishlistproducts", JSON.stringify([]));
+    }
+        if (localStorage.getItem("cartproducts") === null) {
+            localStorage.setItem("cartproducts", JSON.stringify([]));
+        }
+    let user_in=JSON.parse(localStorage.getItem("temp_user_details"));
+    if(user_in){
+        getid("favitem").style.display="none";
+        getid("countfav").innerHTML=JSON.parse(localStorage.getItem("wishlistproducts")).length;
+       
+        getid("changesign").innerHTML=`<h3>Your account</h3>
+        <hr> <h3 id="signoutbtn">Sign out</h3>`
+     
+        getid("countbag").innerHTML=JSON.parse(localStorage.getItem("cartproducts")).length;
+       
+        getid("countfav").addEventListener("click",function(){
+            window.location.href="wishlist.html"
+        })
+        getid("countbag").addEventListener("click",function(){
+            window.location.href="cart.html"
+        })
+    }
+
+    function getid(id){
+        return document.getElementById(id)
+    }
+   getid("signoutbtn")?.addEventListener("click", ()=>{
+    signoutbtn();
+   
+   })
+
+    function signoutbtn(){
+        localStorage.removeItem("temp_user_details");
+        window.location.reload() 
+    }
+    
+
     if (localStorage.getItem("user_details") === null) {
         localStorage.setItem("user_details", JSON.stringify([]));
     }
@@ -61,6 +111,16 @@ setTimeout(() => {
         userDetails.push(user_details);
         localStorage.setItem("user_details", JSON.stringify(userDetails));
         console.log('user_details:', userDetails);
+        if (localStorage.getItem("temp_user_details") != null) {
+            localStorage.removeItem("temp_user_details");
+        }
+        if (localStorage.getItem("temp_user_details") === null) {
+            localStorage.setItem("temp_user_details", JSON.stringify([]));
+        }
+        let m= JSON.parse(localStorage.getItem("temp_user_details"))
+        m.push(user_details);
+        localStorage.setItem("temp_user_details", JSON.stringify(m))
+    
         alert("account created successfully")
         window.location.href = "index.html";
 
@@ -112,7 +172,9 @@ setTimeout(() => {
         }
         let searcheditems = JSON.parse(localStorage.getItem("searched_items"));
         searcheditems.push(searchdata);
+        searcheditems.push(searchvalue);
         localStorage.setItem("searched_items", JSON.stringify(searcheditems));
+        window.location.href="search.html"
     }
     }
 }, 1500);

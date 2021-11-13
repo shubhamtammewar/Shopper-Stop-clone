@@ -9,8 +9,18 @@ let favdata= JSON.parse(localStorage.getItem('wishlistproducts'));
 append(favdata)
 
 console.log('favdata:', favdata)
-//getid("userdetails").innerHTML=`<p> Name: ${user.name}</p><p>Email: ${user.email}<p>Mobile: ${user.mobile}</p>`;
-getid("wishhead").innerText= "Wishlist " + "(" + favdata.length +")";
+let user = JSON.parse(localStorage.getItem("temp_user_details"))[0];
+console.log('user:', user)
+getid("userdetails").innerHTML = `<p> Name: ${user.name}</p><p>Email: ${user.email}<p>Mobile: ${user.mobile}</p>`;
+getid("wishhead").innerText = "Wishlist " + "(" + favdata.length + ")";
+
+getid("logout").addEventListener("click", function(){
+    logout();
+})
+
+function logout(){
+    localStorage.removeItem("temp_user_details");
+    window.location.href="index.html";}
 
 
 
