@@ -246,7 +246,7 @@ function create(el) {
 function append(data) {
     let container = getid("product_container")
     container.innerHTML = ""
-    mendata.forEach((el) => {
+    kidsdata.forEach((el) => {
         let div = create("div");
         div.id = "maindiv"
         div.addEventListener("click", () => {
@@ -336,7 +336,7 @@ function gotoproduct(el) {
     let specificproduct = JSON.parse(localStorage.getItem("specificproduct"));
     specificproduct.push(el);
     localStorage.setItem("specificproduct", JSON.stringify(specificproduct));
-    window.location.href = "pro_description.html";
+    window.location.href = "./pro_description.html";
 
 }
 

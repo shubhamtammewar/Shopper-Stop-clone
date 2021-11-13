@@ -221,7 +221,11 @@ function append(data) {
     container.innerHTML = ""
     data.forEach((el) => {
         let div = create("div");
-        div.id = "maindiv"
+        div.id = "maindiv";
+        div.onclick =function(){
+            window.location.href="./pro_description.html"
+        }
+
         div.addEventListener("click", () => {
             gotoproduct(el)
         })

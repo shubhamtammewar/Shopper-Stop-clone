@@ -65,7 +65,8 @@ var slideIndex = 0;
     
     }
     
-    var beautydata = category()
+    var beautydata = category();
+    append(beautydata)
     
     
     
@@ -259,7 +260,8 @@ var slideIndex = 0;
         container.innerHTML = ""
        beautydata.forEach((el) => {
             let div = create("div");
-            div.id = "maindiv"
+            div.id = "maindiv";
+            
             div.addEventListener("click", () => {
                 gotoproduct(el);
             })
@@ -346,7 +348,8 @@ var slideIndex = 0;
         let specificproduct = JSON.parse(localStorage.getItem("specificproduct"));
         specificproduct.push(el);
         localStorage.setItem("specificproduct", JSON.stringify(specificproduct));
-        window.location.href = "pro_description.html";
+      
+        window.location.href="./pro_description.html"
     
     }
     
