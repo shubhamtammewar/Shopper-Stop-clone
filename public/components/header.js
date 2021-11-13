@@ -215,9 +215,6 @@ function header() {
                       <li><a>Skincare - upto 40% off</a></li>
                       <li><a>Womens Fragrances - upto 40% off</a></li>
                       <li><a>Men Fragrances - upto 50% off</a></li>
-    
-    
-    
                     </ul>
                   </div>
                   <div>
