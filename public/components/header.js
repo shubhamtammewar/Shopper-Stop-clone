@@ -6,7 +6,7 @@ function header() {
     <header>
         <div id="left-header">
              <img
-            src="https://cdn-icons.flaticon.com/png/512/3222/premium/3222657.png?token=exp=1635850627~hmac=0c5658d53a1af0aaa99bba6de271f63f"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABmJLR0QA/wD/AP+gvaeTAAABwUlEQVRoge2ZvUoDQRRGT0RIFbARFLRS0DKVpZ1i0Dp2lr6CrZ22vkCstdFKsLCwiS+ghZ0m2ogIQYwgklhkF9a4f7O7kxkn98BXZdj9TiYJdycgCIKgRh1oe6kb7qKVErAP9IB+IEfAhMFeWqgAZ/wWDeYCmDLWrmAWgFuiZf3cA8uGOhbGKvBCsqyfN2DNSNMC2AW+SC/r5xvYM9A3M2WggbrocBretYbZBJ4C69pATZtNAjNAk/yyfpreNYO0Q9a1NDpFUgUeQsrkzTOwErhP1LqRsg18xJTJm09gx7uXUeEJ4JC/w4SO9ICDmNe1UwHONclliVYWgTsLJEcivM5gQDAtOBLhrMPEvxMuA8cWSMUlbEjJxDRwbYFQUm6A2byyVeDRApm0GR5SlNgCuhZIqKbrdVemZUH5rImcreOOVkpp3hWXqBH+ZGJ7WsBGlJTKLvYV1poglYtzp4VJiLDrTJouEELSdzHXb8nY7bAIu44Iu44Iu44Iu44Iu44Iu44Iu46Nz8Naz87GbodVhN+1tchPJ+1CFeGrDEVGxaWOiy5h5x/hr8CcDmGAeeCUwUfItGgHONEpKwiCIAhCsfwAD4WpZyl0uzUAAAAASUVORK5CYII="
             height="25px" width="25px" />
           <span>
             <p>All stores</p>
@@ -263,7 +263,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <button class="dropbtn">WOMEN</button>
+         <button class="dropbtn">WOMEN</button>
           <div class="dropdown-content">
             <ul>
               <div class="idropdown">
@@ -525,7 +525,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <a href="kidsproductpage.html"><button class="dropbtn">KIDS</button></a>
+        <a href="./html/kidsproductpage.html"><button class="dropbtn">KIDS</button></a>
           <div class="dropdown-content" id="dd3">
             <ul>
               <div class="idropdown">
@@ -738,7 +738,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <a href="beautiproduct.html"><button class="dropbtn">BEAUTY</button></a>
+        <a href="./html/beautiproduct.html"><button class="dropbtn">BEAUTY</button></a>
           <div class="dropdown-content" id="dd4">
             <ul>
               <div class="idropdown">
@@ -1025,7 +1025,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-         <a href="men.html"> <button class="dropbtn">MEN</button></a>
+        <a href="./html/men.html"> <button class="dropbtn">MEN</button></a>
     
           <div class="dropdown-content" id="dd5">
             <ul>
