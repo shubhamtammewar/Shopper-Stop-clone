@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="../styles/wishlist.css">
+    <link rel="stylesheet" href="../styles/footer.css">
 </head>
 <body>
     <div id="header"></div>
@@ -50,10 +51,16 @@
 </div>
 
 
-<div id="footer"></div>
+<div id="foo"></div>
 
 </body>
 </html>
 
 
 <script src="script/wishlist.js"></script>
+<script type="module">
+    import footer from "../components/footer.js";
+
+    var foo = document.getElementById('foo');
+    foo.innerHTML = footer();
+</script>

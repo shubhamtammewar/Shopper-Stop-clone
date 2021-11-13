@@ -8,13 +8,15 @@
     <title>Document</title>
     <script src="https://kit.fontawesome.com/a163d6c0c3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="../styles/beautiproduct.css">
+    <link rel="stylesheet" href="../styles/header.css">
+    <link rel="stylesheet" href="../styles/footer.css">
 </head>
 <style>
 
 </style>
 
 <body>
-
+    <div id="nav"></div>
     <div class="slideshow-container">
         <div style="color: gray; margin-bottom: 10px;">Home / Beauty / Make Up</div>
         <div class="mySlides fade" style="display: none;">
@@ -275,10 +277,21 @@
             </div>
         </div>
     </div>
+    <div id="foo"></div>
 </body>
 
 </html>
 
-<script type="module" src="script/beautiproduct.js">
+<script type="module" src="script/beautiproduct.js"></script>
+
+<script type="module">
+    import header from "../components/header.js";
+    import footer from "../components/footer.js";
+    
+    var nav = document.getElementById('nav');
+    nav.innerHTML = header();
+
+    var foo = document.getElementById('foo');
+    foo.innerHTML = footer();
 
 </script>
