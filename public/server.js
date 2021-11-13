@@ -1,6 +1,7 @@
 const http = require('http');
 const fs = require('fs');
 const { json } = require('node:stream/consumers');
+const port = 8080
 
 const server = http.createServer((req, res) => {
 
@@ -38,8 +39,8 @@ const server = http.createServer((req, res) => {
     }
 });
 
-server.listen(8080, "127.0.0.1", () => {
-    console.log(`Started`);
+server.listen(port, "127.0.0.1", () => {
+    console.log(`Started at http://localhost:${port}`);
 });
 
 
