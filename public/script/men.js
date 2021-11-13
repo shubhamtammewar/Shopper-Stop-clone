@@ -1,7 +1,7 @@
 
 import {
     data
-} from './database.js';
+} from '../script/database.js';
 
 
 function category(cat){

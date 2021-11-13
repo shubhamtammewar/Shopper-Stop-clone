@@ -50,7 +50,7 @@ var slideIndex = 0;
 
     import {
        data
-    } from './database.js';
+    } from '../script/database.js';
 
     function category(){
         let beautydata=[]
