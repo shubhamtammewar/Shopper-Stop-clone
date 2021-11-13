@@ -5,7 +5,7 @@ body{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
    display: grid;
    grid-template-columns: 50px 50px;
    gap: 85px;
-   margin-left: 4%;
+   margin-left: 5%;
 }
 .sub3{
    display: grid;
@@ -104,6 +104,10 @@ li{
 #gp1,#ap1,#js1,#js2{
  width:40px;
  height:50px;
+}
+#gp{
+   width:8rem;
+   height:2.5rem;
 }
 .st{
  margin-left: 1%;

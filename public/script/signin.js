@@ -75,10 +75,10 @@ setTimeout(() => {
         getid("countbag").innerHTML = JSON.parse(localStorage.getItem("cartproducts")).length;
 
         getid("countfav").addEventListener("click", function () {
-            window.location.href = "wishlist.html"
+            window.location.href = "./html/wishlist.html"
         })
         getid("countbag").addEventListener("click", function () {
-            window.location.href = "cart.html"
+            window.location.href = "./html/cart.html"
         })
     }
 
@@ -123,7 +123,7 @@ setTimeout(() => {
         localStorage.setItem("temp_user_details", JSON.stringify(m))
 
         alert("account created successfully")
-        window.location.href = "Home.html";
+        window.location.href = "home.html";
 
     }
     document.getElementById("searchform").addEventListener("submit", search)
@@ -174,7 +174,7 @@ setTimeout(() => {
             searcheditems.push(searchdata);
             searcheditems.push(searchvalue);
             localStorage.setItem("searched_items", JSON.stringify(searcheditems));
-            window.location.href = "search.html"
+            window.location.href = "./html/search.html"
         }
     }
 }, 1500);
