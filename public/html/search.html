@@ -335,14 +335,13 @@
 </body>
 <div id="foo"></div>
 </html>
-<script src="..script/search.js"></script>
+<script src="../script/search.js"></script>
 
 <script type="module">
-  import header from "../components/header.js";
+
   import footer from "../components/footer.js";
 
-  var nav = document.getElementById('nav');
-  nav.innerHTML = header();
+
 
   var foo = document.getElementById('foo');
   foo.innerHTML = footer();
