@@ -18,7 +18,9 @@ return mendata;
 }
 
 var mendata = category("mens")
+console.log('mendata:', mendata)
 append(mendata)
+
 
 
 
