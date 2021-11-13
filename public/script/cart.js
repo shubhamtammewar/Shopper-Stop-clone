@@ -44,7 +44,7 @@ getid("pincode").addEventListener("click", function(){
 getid("disbtn").addEventListener("click", function(){
     if(getid("discountcode").value==="masai21"){
         alert("30% Discount applied");
-        var offer= 0.30* totalP;
+        var offer= Math.floor(0.30* totalP);
          getid("offer").textContent= "-" + offer;
          totalP= totalP-offer;
          getid("total").textContent=  "₹ "+ totalP;

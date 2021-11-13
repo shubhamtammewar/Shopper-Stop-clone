@@ -55,7 +55,9 @@ if(data.Product_Image.length > 1) {
 function create(element){return document.createElement(element);}
 
 function getid(id){return document.getElementById(id)};
-
+getid("addtocart").addEventListener("click", ()=>{
+    addtoBag() 
+})
 function addtoBag() {
     if (localStorage.getItem("cartproducts") === null) {
         localStorage.setItem("cartproducts", JSON.stringify([]));

@@ -34,7 +34,7 @@
                 <div onclick="">LARGE SLIM</div>
                 <div onclick="">XL REGULAR</div>
             </div>
-            <div class="bag" onclick="addtoBag()">ADD TO BAG</div>
+            <div class="bag" id="addtocart">ADD TO BAG</div>
             <div class="icon-box">
                 <div class="icon">
                     <i class="fas fa-medal"></i>
@@ -88,11 +88,10 @@
   
 </script>
 <script type="module">
-    import header from "../components/header.js";
+
     import footer from "../components/footer.js";
   
-    var nav = document.getElementById('nav');
-    nav.innerHTML = header();
+  
   
     var foo = document.getElementById('foo');
     foo.innerHTML = footer();
