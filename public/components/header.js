@@ -6,7 +6,7 @@ function header() {
     <header>
         <div id="left-header">
              <img
-            src="https://cdn-icons.flaticon.com/png/512/3222/premium/3222657.png?token=exp=1635850627~hmac=0c5658d53a1af0aaa99bba6de271f63f"
+            src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAA8CAYAAAA6/NlyAAAABmJLR0QA/wD/AP+gvaeTAAABwUlEQVRoge2ZvUoDQRRGT0RIFbARFLRS0DKVpZ1i0Dp2lr6CrZ22vkCstdFKsLCwiS+ghZ0m2ogIQYwgklhkF9a4f7O7kxkn98BXZdj9TiYJdycgCIKgRh1oe6kb7qKVErAP9IB+IEfAhMFeWqgAZ/wWDeYCmDLWrmAWgFuiZf3cA8uGOhbGKvBCsqyfN2DNSNMC2AW+SC/r5xvYM9A3M2WggbrocBretYbZBJ4C69pATZtNAjNAk/yyfpreNYO0Q9a1NDpFUgUeQsrkzTOwErhP1LqRsg18xJTJm09gx7uXUeEJ4JC/w4SO9ICDmNe1UwHONclliVYWgTsLJEcivM5gQDAtOBLhrMPEvxMuA8cWSMUlbEjJxDRwbYFQUm6A2byyVeDRApm0GR5SlNgCuhZIqKbrdVemZUH5rImcreOOVkpp3hWXqBH+ZGJ7WsBGlJTKLvYV1poglYtzp4VJiLDrTJouEELSdzHXb8nY7bAIu44Iu44Iu44Iu44Iu44Iu44Iu46Nz8Naz87GbodVhN+1tchPJ+1CFeGrDEVGxaWOiy5h5x/hr8CcDmGAeeCUwUfItGgHONEpKwiCIAhCsfwAD4WpZyl0uzUAAAAASUVORK5CYII="
             height="25px" width="25px" />
           <span>
             <p>All stores</p>
@@ -39,24 +39,27 @@ function header() {
             <div class="top-dropbtn">
               <img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/iconwishlist.png" />
             </div>
-            <div class="top-dropdown-content">
+            <div class="top-dropdown-content" id="favitem">
               <h3 class="" id="">Your Saved Items Are Empty
     
               </h3>
               <hr />
               <h3 id="">Please LOGIN or REGISTER to add products</h3>
             </div>
+            <p id="countfav"></p>
           </div>
           <div class="top-dropdown">
             <div class="top-dropbtn">
-              <img src="https://www.shoppersstop.com/_ui/responsive/common/assets/images/iconaddtobag.png" />
+              <a href="cart.html"><img src="https://www.shoppersstop.com/_ui/responsive/common/assets/images/iconaddtobag.png" /></a>
             </div>
+            <p id="countbag"></p>
           </div>
+          
           <div class="top-dropdown">
             <div class="top-dropbtn">
               <img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/iconuser.png" />
             </div>
-            <div class="top-dropdown-content">
+            <div class="top-dropdown-content" id="changesign">
               <h3><label for="show" class="show-btn">SIGN IN</label></h3>
               <hr />
     
@@ -215,6 +218,9 @@ function header() {
                       <li><a>Skincare - upto 40% off</a></li>
                       <li><a>Womens Fragrances - upto 40% off</a></li>
                       <li><a>Men Fragrances - upto 50% off</a></li>
+    
+    
+    
                     </ul>
                   </div>
                   <div>
@@ -232,6 +238,9 @@ function header() {
               <div class="idropdown">
                 <li class="idropbtn" id="all_offer_products">All offers products</li>
                 <div class="idropdown-content">
+    
+    
+    
                   <div>
                     <ul>
                       <li><a>See All Offer Products</a></li>
@@ -254,7 +263,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <button class="dropbtn">WOMEN</button>
+         <button class="dropbtn">WOMEN</button>
           <div class="dropdown-content">
             <ul>
               <div class="idropdown">
@@ -516,7 +525,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <button class="dropbtn">KIDS</button>
+        <a href="./html/kidsproductpage.html"><button class="dropbtn">KIDS</button></a>
           <div class="dropdown-content" id="dd3">
             <ul>
               <div class="idropdown">
@@ -729,7 +738,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <button class="dropbtn">BEAUTY</button>
+        <a href="./html/beautiproduct.html"><button class="dropbtn">BEAUTY</button></a>
           <div class="dropdown-content" id="dd4">
             <ul>
               <div class="idropdown">
@@ -1016,7 +1025,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-          <button class="dropbtn">MEN</button>
+        <a href="./html/men.html"> <button class="dropbtn">MEN</button></a>
     
           <div class="dropdown-content" id="dd5">
             <ul>

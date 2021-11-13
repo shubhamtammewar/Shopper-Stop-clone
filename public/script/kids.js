@@ -29,7 +29,7 @@ var slideIndex = 1;
   
 import {
     data
-} from './database.js';
+} from '../script/database.js';
 
 
 var kidsdata=[]
