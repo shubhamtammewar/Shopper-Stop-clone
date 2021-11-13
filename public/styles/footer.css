@@ -1,4 +1,6 @@
 
+body{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
 .sub1{ 
    display: grid;
    grid-template-columns: 50px 50px;
@@ -77,9 +79,7 @@ strong{
   justify-content:space-between;
 
   gap:1%;
- 
-  margin-left: 10%;
-  margin-right: 5%;
+
   margin-top: 3%;
 }
 .footer4{
