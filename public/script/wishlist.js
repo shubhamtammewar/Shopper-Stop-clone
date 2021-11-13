@@ -44,7 +44,7 @@ function append(data) {
         title.innerHTML = el.Product_Title;
         let price = create("p");
         let btn= create("button");
-        btn.innerHTML = `<p>Move to bag</p>`
+        btn.innerHTML = `<p><b>Move to bag<b/></p>`
         btn.onclick= () =>{
             addtoBag(el);
         }
