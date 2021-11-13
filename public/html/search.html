@@ -6,8 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Document</title>
   <link rel="stylesheet" href="../styles/search.css">
+  <link rel="stylesheet" href="../styles/header.css">
+  <link rel="stylesheet" href="../styles/footer.css">
   </head>
   <body>
+    <div id="nav"></div>
     <div id="all">
     <div id="st1 leftpart">
       <h4 style="display: flex;gap:15px;">CATEGORIES<a href="#" style="color:grey" class="clear">Clear</a></h4>
@@ -329,6 +332,20 @@
     <div id="product_container"></div>
   </div>
 </div>
-  </body>
+</body>
+<div id="foo"></div>
 </html>
-<script type="module" src="..script/search.js"></script>
+<script src="..script/search.js"></script>
+
+<script type="module">
+  import header from "../components/header.js";
+  import footer from "../components/footer.js";
+
+  var nav = document.getElementById('nav');
+  nav.innerHTML = header();
+
+  var foo = document.getElementById('foo');
+  foo.innerHTML = footer();
+
+</script>
+
