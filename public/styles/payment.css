@@ -1,17 +1,4 @@
-/* @media screen and (min-width: 100px) and (max-width:614px) {
-    .shopper{
-        margin-left: 140px;
-        margin-bottom: 15px;
-  }
-  
-}
-  @media screen and (min-width: 614px)  {
-    .shopper{
-        margin-left: 550px;
-        margin-bottom: 15px;
-  }
-  
-  }
+/* 
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -102,10 +89,7 @@ margin: 5px;
     /* border: 1px solid black;  */
 }
 
-#cont1{
-    /* border: 1px solid black; */
-    /* margin-top: 20px; */
-}
+
 
 #payment{
     display: flex;
@@ -182,3 +166,11 @@ span{
     margin-bottom: -20px;
 }
 
+@media screen and (min-width: 100px) and (max-width:614px) {
+    #cont2{
+
+        display: none;
+    }
+  
+}
+  
