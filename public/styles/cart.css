@@ -103,7 +103,7 @@
      margin-left: 20px;
 
  }
- list{
+ ul,li{
      list-style: none;
  }
  
@@ -115,4 +115,44 @@
 
     .top{
         display: flex;
+    }
+
+
+    #leftbody{
+        margin-left: 10%;
+        width: 100%
+   
+    }
+#rightbody{
+    height: 350px;
+    width: 260px;
+    margin-top: 120px;
+    border:1px solid grey
+}
+    
+
+    #cartpagebody{
+        display: grid;
+        grid-template-columns:80% 18%;
+     
+    }
+
+    button{
+        background: white;
+        border:none;
+    }
+    #emptymsg{
+        display:none;
+        text-align: center;
+    }
+    #itemshere{
+        display:inline-block;
+       
+    }
+    #appendcont{
+           display:grid;grid-template-columns: 25% 30% 30% 15%;
+           width:125%;
+    }
+    #appendcont img{
+   width:100%
     }
