@@ -23,7 +23,7 @@ function header() {
         </div>
         <div id="right-header">
           <div id="main-img">
-            <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
+            <a href= index.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
           </div>
           <form id="searchform">
             <input id="searchinput" type="text" name="search" placeholder="Search products and Brands" />

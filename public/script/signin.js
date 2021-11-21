@@ -123,7 +123,7 @@ setTimeout(() => {
         localStorage.setItem("temp_user_details", JSON.stringify(m))
 
         alert("account created successfully")
-        window.location.href = "home.html";
+        window.location.href = "index.html";
 
     }
     document.getElementById("searchform").addEventListener("submit", search)

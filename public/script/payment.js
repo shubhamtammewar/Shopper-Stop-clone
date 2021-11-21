@@ -24,7 +24,7 @@ function pay(e) {
       alert("Your items will be deleivered in 2 days!");
    }, 1000);
    setTimeout(() => {
-      window.location.href = "Home.html"
+      window.location.href = "index.html"
    }, 2000);
 }
 
