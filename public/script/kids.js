@@ -29,7 +29,7 @@ var slideIndex = 1;
   
 import {
     data
-} from '../script/database.js';
+} from './database.js';
 
 
 var kidsdata=[]
@@ -90,6 +90,7 @@ clearbtn.forEach(element => {
 })
 
 function Clearall() {
+    append(kidsdata)
     let checkbox = document.querySelectorAll(".sh");
     checkbox.forEach(element => {
         element.checked = false;
@@ -246,12 +247,10 @@ function create(el) {
 function append(data) {
     let container = getid("product_container")
     container.innerHTML = ""
-    kidsdata.forEach((el) => {
+    data.forEach((el) => {
         let div = create("div");
         div.id = "maindiv"
-        div.addEventListener("click", () => {
-            gotoproduct(el);
-        })
+       
         let img = create("img");
         img.src = el.Product_Image[0];
         img.style.height = "430px";
@@ -266,6 +265,9 @@ function append(data) {
         }
 
         let desc_div = create("div");
+        desc_div.addEventListener("click", () => {
+            gotoproduct(el);
+        })
         let brand = create("h4");
         brand.innerHTML = el.Product_Brand;
         let title = create("p");

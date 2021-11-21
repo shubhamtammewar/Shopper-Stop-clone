@@ -74,7 +74,8 @@ h4 {
     
     
       margin-top:50px;
-      margin-left:300px;
+      z-index: 100000;
+      margin-left:250px;
       background-color: transparent;
       border:none;
       font-size: 30px;
@@ -282,6 +283,9 @@ background-color: #eee;
 #mainimg{
   margin-left: 46%;
   margin-top: -30px;
+}
+strike{
+  color: red;
 }
 
 

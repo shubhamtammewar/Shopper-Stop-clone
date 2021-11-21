@@ -1,7 +1,7 @@
 
 import {
     data
-} from '../script/database.js';
+} from './database.js';
 
 
 function category(cat){
@@ -18,7 +18,7 @@ return mendata;
 }
 
 var mendata = category("mens")
-console.log('mendata:', mendata)
+
 append(mendata)
 
 
@@ -79,7 +79,9 @@ clearbtn.forEach(element => {
     })
 })
 
+
 function Clearall() {
+    append(mendata)
     let checkbox = document.querySelectorAll(".sh");
     checkbox.forEach(element => {
         element.checked = false;
@@ -216,12 +218,14 @@ function pricerange(e) {
 }
 
 function add(element) {
+   
     let getData = [];
     for (var i = 0; i < mendata.length; i++) {
         if ((mendata[i].OCCASION ?.toUpperCase()) == element) {
             getData.push(data[i])
         }
     }
+   
 
     append(getData)
 
@@ -233,14 +237,13 @@ function create(el) {
 }
 
 function append(data) {
+    console.log('data:', data)
     let container = getid("product_container")
-    container.innerHTML = ""
-    mendata.forEach((el) => {
+    container.innerHTML = "";
+    data.forEach((el) => {
         let div = create("div");
         div.id = "maindiv"
-        div.addEventListener("click", () => {
-            gotoproduct(el);
-        })
+       
         let img = create("img");
         img.src = el.Product_Image[0];
         img.style.height = "430px";
@@ -251,10 +254,14 @@ function append(data) {
         fav_btn.innerHTML = "🧡";
         fav_btn.id = "fav_btn"
         fav_btn.onclick = function () {
+            alert("added to wishlist")
             addtofav(el);
         }
 
         let desc_div = create("div");
+        desc_div.addEventListener("click", () => {
+            gotoproduct(el);
+        })
         let brand = create("h4");
         brand.innerHTML = el.Product_Brand;
         let title = create("p");

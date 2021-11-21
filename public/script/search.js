@@ -4,6 +4,8 @@ var data= JSON.parse(localStorage.getItem("searched_items"))
 if(data){
     append(data[0]);
 }
+let mydata= data[0];
+
 
 
 
@@ -12,22 +14,6 @@ function getid(id) {
 }
 getid("category text").innerText=`Searched item: "${data[1]}"`
 
-
-getid("Sort_GENDER").addEventListener("click", () => {
-    dispay_sort("gendersort");
-});
-getid("Sort_FABRIC").addEventListener("click", () => {
-    dispay_sort("fabricsort");
-});
-getid("Sort_LENGTH").addEventListener("click", () => {
-    dispay_sort("lengthsort");
-});
-getid("Sort_OCCASION").addEventListener("click", () => {
-    dispay_sort("occasionsort");
-});
-getid("Sort_CATEGORY").addEventListener("click", () => {
-    dispay_sort("categorysort");
-});
 
 
 function dispay_sort(id) {
@@ -64,6 +50,7 @@ clearbtn.forEach(element => {
 })
 
 function Clearall() {
+    append(mydata)
     let checkbox = document.querySelectorAll(".sh");
     checkbox.forEach(element => {
         element.checked = false;
@@ -266,7 +253,7 @@ getid("sorthigh").addEventListener("click", () => {
 })
 
 function popular() {
-    let arr = data[0].sort(function (a, b) {
+    let arr = mydata.sort(function (a, b) {
         return a.Product_Rating - b.Product_Rating;
 
     });
@@ -274,7 +261,7 @@ function popular() {
 }
 
 function discount() {
-    let arr = data[0].sort(function (b, a) {
+    let arr = mydata.sort(function (b, a) {
         return a.Product_Discount - b.Product_Discount;
 
     });
@@ -282,7 +269,7 @@ function discount() {
 }
 
 function lowtohigh() {
-    let arr = data[0].sort(function (a, b) {
+    let arr = mydata.sort(function (a, b) {
         return a.Product_Price - b.Product_Price;
 
     });
@@ -290,7 +277,7 @@ function lowtohigh() {
 }
 
 function hightolow() {
-    let arr = data[0].sort(function (b, a) {
+    let arr = mydata.sort(function (b, a) {
         return a.Product_Price - b.Product_Price;
 
     });
@@ -345,8 +332,8 @@ function refineprice() {
     }
 }
 
-let backbtn = document.getElementById("backpage");
-backbtn.addEventListener("click", function (e) {
+let backbtns = document.getElementById("tobackpage");
+backbtns.addEventListener("click", function (e) {
 
    window.history.go(-1);
 

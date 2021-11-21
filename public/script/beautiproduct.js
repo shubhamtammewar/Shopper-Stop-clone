@@ -50,7 +50,7 @@ var slideIndex = 0;
 
     import {
        data
-    } from '../script/database.js';
+    } from './database.js';
 
     function category(){
         let beautydata=[]
@@ -101,8 +101,9 @@ var slideIndex = 0;
             Clearall();
         })
     })
-    
+
     function Clearall() {
+        append(beautydata)
         let checkbox = document.querySelectorAll(".sh");
         checkbox.forEach(element => {
             element.checked = false;
@@ -258,7 +259,7 @@ var slideIndex = 0;
     function append(data) {
         let container = getid("product_container")
         container.innerHTML = ""
-       beautydata.forEach((el) => {
+       data.forEach((el) => {
             let div = create("div");
             div.id = "maindiv";
             
