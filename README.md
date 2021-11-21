@@ -67,7 +67,7 @@ Shoppers Stop is an Indian department store chain, owned by the K Raheja Corp. T
 ![Beauty](https://raw.githubusercontent.com/Smrutiranjan-Patra/Shopper-Stop-clone/main/public/Images/beauty.png?token=AVZCT2RK7ZLPOBWWBOB3K2LBTJOPK)
 
 
-![Product](https://raw.githubusercontent.com/Smrutiranjan-Patra/Shopper-Stop-clone/ae9ac749f919806502f5ca7ca013d012bd83e52f/public/Images/Productspecific.png?token=AVZCT2T3PAZTFXGQRQKCPFLBTJNTK)
+![Product](https://raw.githubusercontent.com/Smrutiranjan-Patra/Shopper-Stop-clone/main/public/Images/Productspecific.png?token=AVZCT2V64EU46CKOV2UXOALBTJOU2)
 
 
 ![Search](https://raw.githubusercontent.com/Smrutiranjan-Patra/Shopper-Stop-clone/ae9ac749f919806502f5ca7ca013d012bd83e52f/public/Images/search.png?token=AVZCT2XNJXJWXBD5ELCKQ6TBTJODQ)
