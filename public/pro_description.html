@@ -5,15 +5,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>
+        Online Shopping India - Shop for clothes, shoes, Bags, watches @
+        Shoppersstop.com
+      </title>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link
+          rel="shortcut icon"
+          href="https://prodstatic.shoppersstop.com/_ui/responsive/theme-ssl/images/favicon.ico"
+        />
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        />
     <script src="https://kit.fontawesome.com/a163d6c0c3.js" crossorigin="anonymous"></script>
-   <link rel="stylesheet" href="../styles/pro_des.css">
-   <link rel="stylesheet" href="../styles/header.css">
-   <link rel="stylesheet" href="../styles/footer.css">
+   <link rel="stylesheet" href="styles/pro_des.css">
+   <link rel="stylesheet" href="styles/header.css">
+   <link rel="stylesheet" href="styles/footer.css">
   
 </head>
 
 <body>
+    <div id="topofpage">
+        <i id="backpage" class="material-icons" style="font-size:36px">chevron_left</i>
+        <div id="mainimg">
+            <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
+        </div>
+    </div>
+    
     <div id="nav"></div>
     <div class="cont">
         <div id="smallimg" class="small-imgs">
@@ -29,10 +48,10 @@
            
             <h5>SELECT SIZE</h5>
             <div class="size">
-                <div onclick="">SMALL SLIM</div>
-                <div onclick="">MEDIUM SLIM</div>
-                <div onclick="">LARGE SLIM</div>
-                <div onclick="">XL REGULAR</div>
+                <div class="size-select" id="smallslim"> SLIM</div>
+                <div class="size-select" id="mediumslim">MEDIUM SLIM</div>
+                <div class="size-select" id="largeslim" >LARGE SLIM</div>
+                <div class="size-select" id="xl">XL REGULAR</div>
             </div>
             <div class="bag" id="addtocart">ADD TO BAG</div>
             <div class="icon-box">
@@ -83,13 +102,13 @@
 </body>
 </html>
 
-<script type="module" src="../script/pro_description.js">
+<script type="module" src="script/pro_description.js">
 
   
 </script>
 <script type="module">
 
-    import footer from "../components/footer.js";
+    import footer from "./components/footer.js";
   
   
   

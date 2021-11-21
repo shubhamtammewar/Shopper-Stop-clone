@@ -4,13 +4,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="../styles/address.css">
+    <title>
+        Online Shopping India - Shop for clothes, shoes, Bags, watches @
+        Shoppersstop.com
+      </title>
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <link
+          rel="shortcut icon"
+          href="https://prodstatic.shoppersstop.com/_ui/responsive/theme-ssl/images/favicon.ico"
+        />
+        <link
+          rel="stylesheet"
+          href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        />
+    <link rel="stylesheet" href="styles/address.css">
 </head>
 <body>
-    <div style="justify-content:center; margin-left:44%" class="shopper">
-        <a href="https://www.shoppersstop.com/"><img
-                src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" alt=""></a>
+    <div id="topofpage">
+        <i id="backpage" class="material-icons" style="font-size:36px">chevron_left</i>
+        <div id="mainimg">
+            <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
+        </div>
     </div>
 
     <div id="cont">
@@ -94,6 +108,13 @@
 <script>
     function confirm(e){
         e.preventDefault()
-        window.location.href="./payment.html"
+        window.location.href="payment.html"
     }
+    let backbtn = document.getElementById("backpage");
+backbtn.addEventListener("click", function (e) {
+    
+
+   window.history.go(-1);
+
+})
 </script>

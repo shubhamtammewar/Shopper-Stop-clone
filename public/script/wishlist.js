@@ -20,7 +20,7 @@ getid("logout").addEventListener("click", function(){
 
 function logout(){
     localStorage.removeItem("temp_user_details");
-    window.location.href="../Home.html";}
+    window.location.href="Home.html";}
 
 
 

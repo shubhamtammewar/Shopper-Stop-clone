@@ -59,6 +59,7 @@ getid("addtocart").addEventListener("click", ()=>{
     addtoBag() 
 })
 function addtoBag() {
+    alert("item added")
     if (localStorage.getItem("cartproducts") === null) {
         localStorage.setItem("cartproducts", JSON.stringify([]));
     }
@@ -66,3 +67,25 @@ function addtoBag() {
     cartproduct.push(data);
     localStorage.setItem("cartproducts", JSON.stringify(cartproduct));
 }
+
+let sizes = document.querySelectorAll(".size-select");
+sizes.forEach(element => {
+    element.addEventListener("click", () => {
+        selectsize(element.id)
+    })
+})
+
+function selectsize(id) {
+   let size= document.getElementById(id);
+   size.style.backgroundColor="grey"
+
+}
+
+
+let backbtn= document.getElementById("backpage");
+backbtn.addEventListener("click",function(e) {
+    window.history.go(-1)
+})
+
+
+

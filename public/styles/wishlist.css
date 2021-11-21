@@ -9,16 +9,24 @@
     padding: 20px;
 }
 
+#mainimg{
+    margin-left: 46%;
+    margin-bottom: 1.5;
+}
+
 #listing{
     margin-left: -30px;
 }
 
 #userdetails{
-    height: 150px;
+    height: 190px;
+   overflow-x: scroll;
+  overflow-y: hidden;
     margin-left: 10px;
     background-color: #ff2c65;
     padding: 10px;
     color: white;
+   
 }
 
 #wishhead{
