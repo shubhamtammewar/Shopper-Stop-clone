@@ -114,18 +114,12 @@ function footers() {
            <li>Furniture</li>
        </ul>    
     </div>
-    <div>
-        <ul>
-          <li><strong class="a1">Watches</strong></li>
-          <li>Mens Watches</li>
-          <li>Women Watches</li>
-          <li>Kids Watches</li>
-        </ul>
     </div>
-<div class="footer4">
+    <br>
+<div   style="margin-left:80px; float:left";  class="footer4">
       <div>
           <ul>
-              <li style="padding-bottom: 0.5%;margin-left: 0.01%;"><strong class="c1">CUSTOMER</strong></li>
+              <li style="padding-bottom: 0.5%;"><strong class="c1">CUSTOMER</strong></li>
               <li><p class="p2">HELP/FAQ'S</p></li>
               <li><p class="p2">TRACK ORDER</p></li>
               <li><p class="p2">SIZE GUIDE</p></li>

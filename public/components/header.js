@@ -23,7 +23,7 @@ function header() {
         </div>
         <div id="right-header">
           <div id="main-img">
-            <img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" />
+            <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
           </div>
           <form id="searchform">
             <input id="searchinput" type="text" name="search" placeholder="Search products and Brands" />
@@ -525,7 +525,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-        <a href="./html/kidsproductpage.html"><button class="dropbtn">KIDS</button></a>
+        <a href="kidsproductpage.html"><button class="dropbtn">KIDS</button></a>
           <div class="dropdown-content" id="dd3">
             <ul>
               <div class="idropdown">
@@ -738,7 +738,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-        <a href="./html/beautiproduct.html"><button class="dropbtn">BEAUTY</button></a>
+        <a href="beautiproduct.html"><button class="dropbtn">BEAUTY</button></a>
           <div class="dropdown-content" id="dd4">
             <ul>
               <div class="idropdown">
@@ -1025,7 +1025,7 @@ function header() {
           </div>
         </div>
         <div class="dropdown">
-        <a href="./html/men.html"> <button class="dropbtn">MEN</button></a>
+        <a href="men.html"> <button class="dropbtn">MEN</button></a>
     
           <div class="dropdown-content" id="dd5">
             <ul>

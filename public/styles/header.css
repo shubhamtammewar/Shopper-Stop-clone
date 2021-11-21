@@ -6,7 +6,6 @@
   background-color: #fff;
 }
 header {
-  position: sticky;
   padding: 1rem;
   display: flex;
   width: 80%;
@@ -15,6 +14,7 @@ header {
 }
 
 #left-header {
+  width:1.5%;
   float: left;
   display: flex;
   margin: 10px;
@@ -22,8 +22,7 @@ header {
 #left-header p {
   text-align: center;
   margin: auto;
-  margin-top: 2%;
-  font: 16px/26px "PT Sans";
+  font: 16px/26px;
   font-weight: bold;
   margin-right: 10px;
 }
@@ -33,9 +32,6 @@ header {
   margin-left: 400px;
 }
 
-#main-img {
-  margin-right: 50px;
-}
 
 #searchinput {
   width: 300px;
@@ -57,9 +53,10 @@ input:focus {
   width: 100%;
   font-size: 16px;
   background-color: white;
-  background-image: url("https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/iconsearch.png");
-  background-repeat: no-repeat;
-  padding: 12px 20px 12px 40px;
+ background-image: url("https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/iconsearch.png");
+   background-repeat: no-repeat;
+
+  padding: 12px 20px 12px 40px; 
 }
 
 .mediasearchdiv {
@@ -115,7 +112,7 @@ input:focus {
 .dropdown {
   background-color: white;
   float: left;
-  margin-left: 53px;
+  margin-left: 22px;
 }
 
 /* Dropdown button */
@@ -267,7 +264,10 @@ li {
 }
 /* ******************** signin signup container *********** */
 .container {
+  
+   
   position: absolute;
+  z-index: 10000;
   top: 60%;
   left: 50%;
   transform: translate(-50%, -50%);

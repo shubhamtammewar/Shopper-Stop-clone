@@ -50,18 +50,18 @@ strong{
 }
 .footer{
   display: grid;
-  grid-template-columns: 30% 30% 30% ;
+  grid-template-columns: 33% 33% 33% ;
   justify-content:space-between;
   background-color:#FAFAFA;
-  width: 100%;
-  margin-left: 2%;
+  width: 80%;
+  margin-left: 3%;
   column-gap: 8%;
 }
 .footer1{
   display: grid;
   grid-template-columns: 30% 30% 30% ;
   justify-content:space-between;
-  width: 100%;
+  width: 80%;
   margin-left: 1%;
   column-gap: 8%;
 }
@@ -69,20 +69,24 @@ strong{
   display: grid;
   grid-template-columns: 30% 30% 30%;
   justify-content:space-between; 
-  width: 100%;
+  width: 80%;
   margin-left: 2%;
-  column-gap: 8%;
+  /* column-gap: 8%; */
 }
 .footer3{
+   
   display: grid;
+  float:right;
+  width:90%;
   grid-template-columns: 15% 15% 15% 15% 15% 15%;
   justify-content:space-between;
 
-  gap:1%;
+  gap:2%;
 
   margin-top: 3%;
 }
 .footer4{
+
   display: grid;
   grid-template-columns: 12% 12% 12% 12% 12% 12%;
   justify-content:space-between;
