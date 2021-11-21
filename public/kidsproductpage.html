@@ -17,13 +17,20 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
     />
-  <link rel="stylesheet" href="./styles/kids.css">
-  <link rel="stylesheet" href="./styles/header.css">
+  <link rel="stylesheet" href="styles/kids.css">
+
   <link rel="stylesheet" href="./styles/footer.css">
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 <body>
-  <div id="nav"></div>
+  <div id="topofpage">
+    <i id="backpage" class="material-icons" style="font-size:36px">chevron_left</i>
+    <div id="mainimg">
+        <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
+    </div>
+</div>
+  
   <div id="slide">
 
 
@@ -327,19 +334,18 @@
 
 
       <div id="product_container"></div>
+      </div>
+      </div>
       <div id="foo"></div>
 </body>
 
 </html>
-<script type="module" src="/script/kids.js">
+<script type="module" src="script/kids.js">
 
 </script>
 <script type="module">
-  import header from "./components/header.js";
   import footer from "./components/footer.js";
 
-  var nav = document.getElementById('nav');
-  nav.innerHTML = header();
 
   var foo = document.getElementById('foo');
   foo.innerHTML = footer();

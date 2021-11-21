@@ -388,3 +388,11 @@ var slideIndex = 0;
             append(getData);
         }
     }
+
+
+    let backbtn = document.getElementById("backpage");
+backbtn.addEventListener("click", function (e) {
+
+   window.history.go(-1);
+
+})

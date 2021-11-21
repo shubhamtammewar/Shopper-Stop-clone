@@ -272,3 +272,9 @@ background-color: #eee;
   display:grid;
   grid-template-columns: 15% 85%;
 }
+
+
+#mainimg{
+  margin-left: 46%;
+  margin-top: -30px;
+}

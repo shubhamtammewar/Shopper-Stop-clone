@@ -19,13 +19,19 @@
         />
     <script src="https://kit.fontawesome.com/a163d6c0c3.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="styles/beautiproduct.css">
-    <link rel="stylesheet" href="styles/header.css">
+ 
     <link rel="stylesheet" href="styles/footer.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 
 
 <body>
-    <div id="nav"></div>
+        <div id="topofpage">
+                <i id="backpage" class="material-icons" style="font-size:36px">chevron_left</i>
+                <div id="mainimg">
+                    <a href= Home.html><img src="https://prodstatic.shoppersstop.com/_ui/responsive/common/assets/images/sslogo.svg" /></a>
+                </div>
+            </div>
     <div class="slideshow-container">
         <div style="color: gray; margin-bottom: 10px;">Home / Beauty / Make Up</div>
         <div class="mySlides fade" style="display: none;">
@@ -294,11 +300,10 @@
 <script type="module" src="script/beautiproduct.js"></script>
 
 <script type="module">
-    import header from "./components/header.js";
+    
     import footer from "./components/footer.js";
     
-    var nav = document.getElementById('nav');
-    nav.innerHTML = header();
+
 
     var foo = document.getElementById('foo');
     foo.innerHTML = footer();
