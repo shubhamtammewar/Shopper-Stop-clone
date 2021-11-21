@@ -1,4 +1,4 @@
-This is the clone of [SHOPPERS STOP](https://www.shoppersstop.com). We started this project as a six member team during the third unit construct week organised at Masai School, Bengaluru, Karnataka.
+This is the clone of [SHOPPERS STOP](https://www.shoppersstop.com). We started this project as a five member team during the third unit construct week organised at Masai School, Bengaluru, Karnataka.
 
 ## Table of contents
 
